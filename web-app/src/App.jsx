@@ -148,7 +148,7 @@ function App() {
 
   // スワイプ中のカード変形スタイル
   const cardSwipeStyle = swipeX !== 0 || isSwipeTransitioning ? {
-    transform: `translateX(${swipeX}px) rotate(${swipeX * 0.06}deg)`,
+    transform: `translateX(${swipeX}px)`,
     transition: isSwipeTransitioning ? 'transform 0.28s ease-out, opacity 0.28s ease-out' : 'none',
     opacity: Math.max(0, 1 - Math.abs(swipeX) / (window.innerWidth || 400)),
     transformOrigin: 'center 80%',
