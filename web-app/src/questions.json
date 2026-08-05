@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "category": "基本の質問",
+    "q": "<ruby>自己紹介<rt>じこしょうかい</rt></ruby>をしてください。",
+    "p": "<ruby>名前<rt>なまえ</rt></ruby>⇒<ruby>学校<rt>がっこう</rt></ruby>⇒<ruby>日本<rt>にほん</rt></ruby>での<ruby>活動<rt>かつどう</rt></ruby>（<ruby>留学<rt>りゅうがく</rt></ruby>・アルバイト）⇒<ruby>志望動機<rt>しぼうどうき</rt></ruby>へのつながり、を1<ruby>分<rt>ふん</rt></ruby><ruby>程度<rt>ていど</rt></ruby>で<ruby>簡潔<rt>かんけつ</rt></ruby>に<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "<ruby>私<rt>わたし</rt></ruby>は〇〇<ruby>専門学校<rt>せんもんがっこう</rt></ruby>の〇〇と<ruby>申<rt>もう</rt></ruby>します。〇〇<ruby>出身<rt>しゅっしん</rt></ruby>で、〇<ruby>年前<rt>ねんまえ</rt></ruby>に<ruby>来日<rt>らいにち</rt></ruby>しました。<ruby>学校<rt>がっこう</rt></ruby>では〇〇を<ruby>学<rt>まな</rt></ruby>びながら、アルバイトを<ruby>通<rt>つう</rt></ruby>じて<ruby>日本<rt>にほん</rt></ruby>のサービス<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>学<rt>まな</rt></ruby>んできました。<ruby>本日<rt>ほんじつ</rt></ruby>はよろしくお<ruby>願<rt>ねが</rt></ruby>いいたします。"
+  },
+  {
+    "id": 2,
+    "category": "基本の質問",
+    "q": "なぜ<ruby>日本<rt>にほん</rt></ruby>に<ruby>留学<rt>りゅうがく</rt></ruby>したのですか？",
+    "p": "<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>学<rt>まな</rt></ruby>んで<ruby>日本<rt>にほん</rt></ruby>のビジネスに<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ったなど、<ruby>前向<rt>まえむ</rt></ruby>きな<ruby>理由<rt>りゆう</rt></ruby>を<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "<ruby>高校時代<rt>こうこうじだい</rt></ruby>に<ruby>日本<rt>にほん</rt></ruby>のコンビニに<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ち、<ruby>日本<rt>にほん</rt></ruby>の<ruby>優<rt>すぐ</rt></ruby>れた<ruby>小売<rt>こうり</rt></ruby>ビジネスを<ruby>学<rt>まな</rt></ruby>びたいと<ruby>思<rt>おも</rt></ruby>ったのがきっかけです。<ruby>来日<rt>らいにち</rt></ruby>して<ruby>実際<rt>じっさい</rt></ruby>にアルバイトを<ruby>経験<rt>けいけん</rt></ruby>し、この<ruby>分野<rt>ぶんや</rt></ruby>でキャリアを築きたいという<ruby>気持<rt>きも</rt></ruby>ちが<ruby>強<rt>つよ</rt></ruby>くなりました。"
+  },
+  {
+    "id": 3,
+    "category": "基本の質問",
+    "q": "あなたの<ruby>長所<rt>ちょうしょ</rt></ruby>と<ruby>短所<rt>たんしょ</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
+    "p": "<ruby>長所<rt>ちょうしょ</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>で<ruby>貢献<rt>こうけん</rt></ruby>できることを<ruby>話<rt>はな</rt></ruby>し、<ruby>短所<rt>たんしょ</rt></ruby>は<ruby>課題<rt>かだい</rt></ruby>としてどう<ruby>克服<rt>こくふく</rt></ruby>しようとしているかを<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "<ruby>長所<rt>ちょうしょ</rt></ruby>は<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いを<ruby>乗<rt>の</rt></ruby>り<ruby>越<rt>こ</rt></ruby>えてコミュニケーションが<ruby>取<rt>と</rt></ruby>れることです。<ruby>短所<rt>たんしょ</rt></ruby>は<ruby>完璧<rt>かんぺき</rt></ruby>を<ruby>求<rt>もと</rt></ruby>めすぎることですが、<ruby>最近<rt>さいきん</rt></ruby>は7〜8<ruby>割<rt>わり</rt></ruby>の<ruby>完成度<rt>かんせいど</rt></ruby>で<ruby>周囲<rt>しゅうい</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>するよう<ruby>心<rt>こころ</rt></ruby>がけています。"
+  },
+  {
+    "id": 4,
+    "category": "基本の質問",
+    "q": "なぜ、<ruby>日本<rt>にほん</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>きたいのですか。",
+    "p": "なぜ<ruby>日本<rt>にほん</rt></ruby>か？⇒なぜこの<ruby>業界<rt>ぎょうかい</rt></ruby>か？⇒なぜこの<ruby>会社<rt>かいしゃ</rt></ruby>か？の<ruby>順<rt>じゅん</rt></ruby>で、<ruby>日本<rt>にほん</rt></ruby>で<ruby>長<rt>なが</rt></ruby>く<ruby>活躍<rt>かつやく</rt></ruby>したい<ruby>意欲<rt>いよく</rt></ruby>を<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "<ruby>勉強<rt>べんきょう</rt></ruby>してきた<ruby>日本語<rt>にほんご</rt></ruby>をビジネスレベルまで<ruby>高<rt>たか</rt></ruby>めたいからです。<ruby>両国<rt>りょうごく</rt></ruby>でのビジネス<ruby>展開<rt>てんかい</rt></ruby>に<ruby>成功<rt>せいこう</rt></ruby>している<ruby>御社<rt>おんしゃ</rt></ruby>で、<ruby>高<rt>たか</rt></ruby>いレベルの<ruby>日本語<rt>にほんご</rt></ruby>とビジネス<ruby>感覚<rt>かんかく</rt></ruby>を<ruby>身<rt>み</rt></ruby>に<ruby>着<rt>つ</rt></ruby>け、<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>したいです。"
+  },
+  {
+    "id": 5,
+    "category": "基本の質問",
+    "q": "<ruby>将来<rt>しょうらい</rt></ruby>は<ruby>母国<rt>ぼこく</rt></ruby>に<ruby>帰<rt>かえ</rt></ruby>りませんか？",
+    "p": "すぐに<ruby>帰国<rt>きこく</rt></ruby>される<ruby>懸念<rt>けねん</rt></ruby>を<ruby>払拭<rt>ふっしょく</rt></ruby>するため、「まずは<ruby>日本<rt>にほん</rt></ruby>でしっかりキャリアを<ruby>積<rt>つ</rt></ruby>みたい」と<ruby>先<rt>さき</rt></ruby>に<ruby>伝<rt>つた</rt></ruby>えること。",
+    "e": "まずは<ruby>日本<rt>にほん</rt></ruby>で<ruby>最低<rt>さいてい</rt></ruby>7<ruby>年<rt>ねん</rt></ruby>はキャリアを<ruby>積<rt>つ</rt></ruby>み、<ruby>御社<rt>おんしゃ</rt></ruby>の<ruby>事業<rt>じぎょう</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>したいと<ruby>考<rt>かんが</rt></ruby>えています。<ruby>将来的<rt>しょうらいてき</rt></ruby>には<ruby>母国<rt>ぼこく</rt></ruby>との<ruby>架<rt>か</rt></ruby>け<ruby>橋<rt>はし</rt></ruby>になる<ruby>夢<rt>ゆめ</rt></ruby>もありますが、<ruby>当面<rt>とうめん</rt></ruby>は<ruby>日本<rt>にほん</rt></ruby>でじっくり<ruby>成長<rt>せいちょう</rt></ruby>したいです。"
+  },
+  {
+    "id": 6,
+    "category": "基本の質問",
+    "q": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>職場環境<rt>しょくばかんきょう</rt></ruby>に<ruby>馴染<rt>なじ</rt></ruby>めると<ruby>思<rt>おも</rt></ruby>いますか？",
+    "p": "<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いを<ruby>理解<rt>りかい</rt></ruby>し、<ruby>前向<rt>まえむ</rt></ruby>きに<ruby>受<rt>う</rt></ruby>け<ruby>入<rt>い</rt></ruby>れる<ruby>姿勢<rt>しせい</rt></ruby>があるか、アルバイトなどの<ruby>経験<rt>けいけん</rt></ruby>を<ruby>交<rt>まじ</rt></ruby>えて<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "はい。アルバイトで2<ruby>年間<rt>ねんかん</rt></ruby><ruby>働<rt>はたら</rt></ruby>く<ruby>中<rt>なか</rt></ruby>で、<ruby>報<rt>ほう</rt></ruby><ruby>連<rt>れん</rt></ruby><ruby>相<rt>そう</rt></ruby>の<ruby>大切<rt>たいせつ</rt></ruby>さやチームワークを<ruby>経験<rt>けいけん</rt></ruby>しました。<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>戸惑<rt>とまど</rt></ruby>いもありましたが、<ruby>今<rt>いま</rt></ruby>では<ruby>自分<rt>じぶん</rt></ruby>から<ruby>確認<rt>かくにん</rt></ruby>する<ruby>習慣<rt>しゅうかん</rt></ruby>が<ruby>身<rt>み</rt></ruby>についています。"
+  },
+  {
+    "id": 7,
+    "category": "基本の質問",
+    "q": "なぜ、この<ruby>会社<rt>かいしゃ</rt></ruby>を<ruby>選<rt>えら</rt></ruby>びましたか？",
+    "p": "<ruby>企業<rt>きぎょう</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby>の<ruby>結果<rt>けっか</rt></ruby>（ビジョンや<ruby>事業内容<rt>じぎょうないよう</rt></ruby>）と、<ruby>自分<rt>じぶん</rt></ruby>のスキルがどう<ruby>貢献<rt>こうけん</rt></ruby>できるかを<ruby>結<rt>むす</rt></ruby>びつけて<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "<ruby>御社<rt>おんしゃ</rt></ruby>の〇〇<ruby>事業<rt>じぎょう</rt></ruby>において、<ruby>私<rt>わたし</rt></ruby>が<ruby>専門学校<rt>せんもんがっこう</rt></ruby>で<ruby>習得<rt>しゅうとく</rt></ruby>した<ruby>知識<rt>ちしき</rt></ruby>と、アルバイトで<ruby>培<rt>つちか</rt></ruby>ったカスタマーサービススキルを<ruby>活<rt>い</rt></ruby>かして<ruby>貢献<rt>こうけん</rt></ruby>したいという<ruby>強<rt>つよ</rt></ruby>い<ruby>思<rt>おも</rt></ruby>いから<ruby>志望<rt>しぼう</rt></ruby>いたしました。"
+  },
+  {
+    "id": 8,
+    "category": "基本の質問",
+    "q": "<ruby>入社後<rt>にゅうしゃご</rt></ruby>にやりたいことは<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>入社<rt>にゅうしゃ</rt></ruby>してから<ruby>積極的<rt>せっきょくてき</rt></ruby>に<ruby>活躍<rt>かつやく</rt></ruby>したいというビジョンを<ruby>具体的<rt>ぐたいてき</rt></ruby>に<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "<ruby>御社<rt>おんしゃ</rt></ruby>の〇〇<ruby>事業<rt>じぎょう</rt></ruby><ruby>拡大<rt>かくだい</rt></ruby>に<ruby>携<rt>たずさ</rt></ruby>わりたいです。<ruby>母国語<rt>ぼこくご</rt></ruby>と<ruby>日本語<rt>にほんご</rt></ruby>のバイリンガル<ruby>能力<rt>のうりょく</rt></ruby>と、IT<ruby>知識<rt>ちしき</rt></ruby>を<ruby>活<rt>い</rt></ruby>かして、<ruby>販売<rt>はんばい</rt></ruby>スキルを<ruby>向上<rt>こうじょう</rt></ruby>し、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>売上<rt>うりあげ</rt></ruby><ruby>増加<rt>ぞうか</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>できる<ruby>部門<rt>ぶもん</rt></ruby>を<ruby>担当<rt>たんとう</rt></ruby>したいです。"
+  },
+  {
+    "id": 9,
+    "category": "基本の質問",
+    "q": "5<ruby>年後<rt>ねんご</rt></ruby>のキャリアプランを<ruby>教<rt>おし</rt></ruby>えてください。",
+    "p": "<ruby>最初<rt>さいしょ</rt></ruby>の3<ruby>年<rt>ねん</rt></ruby>は「<ruby>学<rt>まな</rt></ruby>ぶこと」、5<ruby>年目<rt>ねんめ</rt></ruby><ruby>以降<rt>いこう</rt></ruby>は「リーダー<ruby>等<rt>など</rt></ruby>として<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>すること」を<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "<ruby>最初<rt>さいしょ</rt></ruby>の3<ruby>年間<rt>ねんかん</rt></ruby>は<ruby>営業<rt>えいぎょう</rt></ruby>の<ruby>現場<rt>げんば</rt></ruby>でビジネス<ruby>慣習<rt>かんしゅう</rt></ruby>を<ruby>徹底的<rt>てっていてき</rt></ruby>に<ruby>学<rt>まな</rt></ruby>びます。5<ruby>年後<rt>ねんご</rt></ruby>には、<ruby>外国人<rt>がいこくじん</rt></ruby><ruby>対象<rt>たいしょう</rt></ruby>の<ruby>折衝<rt>せっしょう</rt></ruby>などを<ruby>担当<rt>たんとう</rt></ruby>するチームのリーダーとして、グローバル<ruby>売上<rt>うりあげ</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>できるポジションを<ruby>目指<rt>めざ</rt></ruby>します。"
+  },
+  {
+    "id": 10,
+    "category": "基本の質問",
+    "q": "<ruby>逆<rt>ぎゃく</rt></ruby>に<ruby>質問<rt>しつもん</rt></ruby>してください。（<ruby>逆<rt>ぎゃく</rt></ruby><ruby>質問<rt>しつもん</rt></ruby>）",
+    "p": "「<ruby>特<rt>とく</rt></ruby>にありません」はNG。<ruby>意欲<rt>いよく</rt></ruby>や<ruby>企業<rt>きぎょう</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby>の<ruby>深<rt>ふか</rt></ruby>さを<ruby>示<rt>しめ</rt></ruby>す<ruby>質問<rt>しつもん</rt></ruby>をすること。",
+    "e": "「<ruby>外国人<rt>がいこくじん</rt></ruby><ruby>社員<rt>しゃいん</rt></ruby>の<ruby>方<rt>かた</rt></ruby>はどのような<ruby>業務<rt>ぎょうむ</rt></ruby>を<ruby>担当<rt>たんとう</rt></ruby>されていますか？」「<ruby>入社<rt>にゅうしゃ</rt></ruby>までに<ruby>勉強<rt>べんきょう</rt></ruby>しておくべきことはありますか？」"
+  },
+  {
+    "category": "学生時代・留学生活",
+    "q": "<ruby>学生時代<rt>がくせいじだい</rt></ruby>に<ruby>一番<rt>いちばん</rt></ruby><ruby>頑張<rt>がんば</rt></ruby>ったことは<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>結果<rt>けっか</rt></ruby>だけでなく、<ruby>目標<rt>もくひょう</rt></ruby>に<ruby>向<rt>む</rt></ruby>かってどのように<ruby>努力<rt>どりょく</rt></ruby>したか（プロセス）を<ruby>伝<rt>つた</rt></ruby>えること。",
+    "e": "「<ruby>専門学校<rt>せんもんがっこう</rt></ruby>での<ruby>資格<rt>しかく</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>です。<ruby>毎日<rt>まいにち</rt></ruby>2<ruby>時間<rt>じかん</rt></ruby><ruby>必<rt>かなら</rt></ruby>ず<ruby>勉強<rt>べんきょう</rt></ruby>するルールを<ruby>決<rt>き</rt></ruby>め、<ruby>半年間<rt>はんとしかん</rt></ruby><ruby>続<rt>つづ</rt></ruby>けました。<ruby>結果<rt>けっか</rt></ruby>として〇〇<ruby>資格<rt>しかく</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>し、<ruby>目標<rt>もくひょう</rt></ruby>を<ruby>達成<rt>たっせい</rt></ruby>する<ruby>力<rt>ちから</rt></ruby>を<ruby>身<rt>み</rt></ruby>につけました。」",
+    "id": 11
+  },
+  {
+    "category": "学生時代・留学生活",
+    "q": "<ruby>日本<rt>にほん</rt></ruby>での<ruby>生活<rt>せいかつ</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby><ruby>驚<rt>おどろ</rt></ruby>いたことは<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "ポジティブな<ruby>驚<rt>おどろ</rt></ruby>きを<ruby>選<rt>えら</rt></ruby>び、それをどう<ruby>受<rt>う</rt></ruby>け<ruby>入<rt>い</rt></ruby>れて<ruby>成長<rt>せいちょう</rt></ruby>したかを<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "「<ruby>電車<rt>でんしゃ</rt></ruby>の<ruby>時間<rt>じかん</rt></ruby>が<ruby>正確<rt>せいかく</rt></ruby>なことです。<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>驚<rt>おどろ</rt></ruby>きましたが、これが<ruby>日本<rt>にほん</rt></ruby>の<ruby>信頼<rt>しんらい</rt></ruby>の<ruby>基本<rt>きほん</rt></ruby>だと<ruby>気<rt>き</rt></ruby>づき、<ruby>私<rt>わたし</rt></ruby>も<ruby>常<rt>つね</rt></ruby>に5<ruby>分前<rt>ふんまえ</rt></ruby><ruby>行動<rt>こうどう</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけるようになりました。」",
+    "id": 12
+  },
+  {
+    "category": "学生時代・留学生活",
+    "q": "アルバイトで<ruby>失敗<rt>しっぱい</rt></ruby>した<ruby>経験<rt>けいけん</rt></ruby>とその<ruby>対応<rt>たいおう</rt></ruby>を<ruby>教<rt>おし</rt></ruby>えてください。",
+    "p": "<ruby>失敗<rt>しっぱい</rt></ruby>を<ruby>隠<rt>かく</rt></ruby>さず、<ruby>失敗<rt>しっぱい</rt></ruby>から<ruby>何<rt>なに</rt></ruby>を<ruby>学<rt>まな</rt></ruby>び、<ruby>次<rt>つぎ</rt></ruby>からどう<ruby>改善<rt>かいぜん</rt></ruby>したかを<ruby>説明<rt>せつめい</rt></ruby>すること。",
+    "e": "「<ruby>注文<rt>ちゅうもん</rt></ruby>を<ruby>間違<rt>まちが</rt></ruby>えてお<ruby>客様<rt>きゃくさま</rt></ruby>を<ruby>怒<rt>おこ</rt></ruby>らせたことです。すぐに<ruby>謝罪<rt>しゃざい</rt></ruby>し、<ruby>店長<rt>てんちょう</rt></ruby>に<ruby>報告<rt>ほうこく</rt></ruby>しました。その<ruby>後<rt>のち</rt></ruby>は、<ruby>注文<rt>ちゅうもん</rt></ruby>を<ruby>復唱<rt>ふくしょう</rt></ruby>するルールを<ruby>自分<rt>じぶん</rt></ruby>に<ruby>課<rt>か</rt></ruby>し、ミスをなくしました。」",
+    "id": 13
+  },
+  {
+    "category": "学生時代・留学生活",
+    "q": "<ruby>勉強<rt>べんきょう</rt></ruby>とアルバイトの<ruby>両立<rt>りょうりつ</rt></ruby>はどうしていましたか？",
+    "p": "<ruby>時間<rt>じかん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>（タイムマネジメント）の<ruby>能力<rt>のうりょく</rt></ruby>をアピールすること。",
+    "e": "「スケジュール<ruby>帳<rt>ちょう</rt></ruby>を<ruby>細<rt>こま</rt></ruby>かく<ruby>管理<rt>かんり</rt></ruby>し、<ruby>移動時間<rt>いどうじかん</rt></ruby>などの<ruby>隙間<rt>すきま</rt></ruby><ruby>時間<rt>じかん</rt></ruby>を<ruby>勉強<rt>べんきょう</rt></ruby>にあてることで、アルバイトをしながらも<ruby>成績<rt>せいせき</rt></ruby>を<ruby>維持<rt>いじ</rt></ruby>しました。」",
+    "id": 14
+  },
+  {
+    "category": "学生時代・留学生活",
+    "q": "<ruby>友達<rt>ともだち</rt></ruby>と<ruby>意見<rt>いけん</rt></ruby>が<ruby>合<rt>あ</rt></ruby>わなかったとき、どうしましたか？",
+    "p": "<ruby>相手<rt>あいて</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>尊重<rt>そんちょう</rt></ruby>し、<ruby>建設的<rt>けんせつてき</rt></ruby>に<ruby>解決<rt>かいけつ</rt></ruby>できるコミュニケーション<ruby>能力<rt>のうりょく</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「まず<ruby>相手<rt>あいて</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>最後<rt>さいご</rt></ruby>まで聞き、なぜそう<ruby>思<rt>おも</rt></ruby>うのかを<ruby>理解<rt>りかい</rt></ruby>するように<ruby>努<rt>つと</rt></ruby>めました。その<ruby>上<rt>うえ</rt></ruby>で<ruby>自分<rt>じぶん</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>話<rt>はな</rt></ruby>し、お<ruby>互<rt>たが</rt></ruby>いが<ruby>納得<rt>なっとく</rt></ruby>できる<ruby>妥協点<rt>だきょうてん</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけました。」",
+    "id": 15
+  },
+  {
+    "category": "学生時代・留学生活",
+    "q": "<ruby>日本語<rt>にほんご</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>で<ruby>工夫<rt>くふう</rt></ruby>したことは<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>自分<rt>じぶん</rt></ruby>から<ruby>主体的<rt>しゅたいてき</rt></ruby>に<ruby>学<rt>まな</rt></ruby>ぶ<ruby>姿勢<rt>しせい</rt></ruby>と、<ruby>工夫<rt>くふう</rt></ruby>する<ruby>力<rt>ちから</rt></ruby>（<ruby>問題解決<rt>もんだいかいけつ</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby>）を<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「<ruby>教科書<rt>きょうかしょ</rt></ruby>だけでなく、アルバイト<ruby>先<rt>さき</rt></ruby>で<ruby>日本人<rt>にほんじん</rt></ruby>の<ruby>同僚<rt>どうりょう</rt></ruby>に<ruby>積極的<rt>せっきょくてき</rt></ruby>に<ruby>話<rt>はな</rt></ruby>しかけ、<ruby>生<rt>い</rt></ruby>きた<ruby>日本語<rt>にほんご</rt></ruby>を<ruby>学<rt>まな</rt></ruby>ぶようにしました。わからない<ruby>言葉<rt>ことば</rt></ruby>はその<ruby>日<rt>ひ</rt></ruby>のうちに<ruby>調<rt>しら</rt></ruby>べるようにしています。」",
+    "id": 16
+  },
+  {
+    "category": "学生時代・留学生活",
+    "q": "<ruby>休<rt>やす</rt></ruby>みの<ruby>日<rt>ひ</rt></ruby>は<ruby>何<rt>なに</rt></ruby>をしていますか？",
+    "p": "<ruby>心身<rt>しんしん</rt></ruby>のリフレッシュ<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていること、あるいは<ruby>自己<rt>じこ</rt></ruby><ruby>研鑽<rt>けんさん</rt></ruby>していることを<ruby>伝<rt>つた</rt></ruby>えること。",
+    "e": "「<ruby>休日<rt>きゅうじつ</rt></ruby>は<ruby>公園<rt>こうえん</rt></ruby>でランニングをしてリフレッシュしています。また、<ruby>日本<rt>にほん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>をもっと<ruby>知<rt>し</rt></ruby>るために、<ruby>様々<rt>さまざま</rt></ruby>な<ruby>地域<rt>ちいき</rt></ruby>へ<ruby>旅行<rt>りょこう</rt></ruby>に<ruby>出<rt>で</rt></ruby>かけることも<ruby>好<rt>す</rt></ruby>きです。」",
+    "id": 17
+  },
+  {
+    "category": "学生時代・留学生活",
+    "q": "ストレスを<ruby>感<rt>かん</rt></ruby>じたとき、どうやって<ruby>発散<rt>はっさん</rt></ruby>しますか？",
+    "p": "<ruby>仕事<rt>しごと</rt></ruby>でストレスがあっても、<ruby>自分<rt>じぶん</rt></ruby>でうまくコントロールできる<ruby>自己管理<rt>じこかんり</rt></ruby><ruby>能力<rt>のうりょく</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「<ruby>友人<rt>ゆうじん</rt></ruby>と<ruby>美味<rt>おい</rt></ruby>しいものを<ruby>食<rt>た</rt></ruby>べに<ruby>行<rt>い</rt></ruby>ったり、たくさん<ruby>寝<rt>ね</rt></ruby>たりすることで<ruby>切<rt>き</rt></ruby>り<ruby>替<rt>か</rt></ruby>えています。<ruby>一人<rt>ひとり</rt></ruby>で<ruby>抱<rt>かか</rt></ruby>え<ruby>込<rt>こ</rt></ruby>まず、<ruby>誰<rt>だれ</rt></ruby>かに<ruby>相談<rt>そうだん</rt></ruby>することも<ruby>心<rt>こころ</rt></ruby>がけています。」",
+    "id": 18
+  },
+  {
+    "category": "学生時代・留学生活",
+    "q": "<ruby>今<rt>いま</rt></ruby>までで<ruby>一番<rt>いちばん</rt></ruby><ruby>大<rt>おお</rt></ruby>きな<ruby>挫折<rt>ざせつ</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>挫折<rt>ざせつ</rt></ruby>そのものではなく、そこからどう<ruby>立<rt>た</rt></ruby>ち<ruby>直<rt>なお</rt></ruby>ったかという「<ruby>立<rt>た</rt></ruby>ち<ruby>直<rt>なお</rt></ruby>る<ruby>力<rt>ちから</rt></ruby>（レジリエンス）」を<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "「<ruby>来日<rt>らいにち</rt></ruby><ruby>直後<rt>ちょくご</rt></ruby>、<ruby>言葉<rt>ことば</rt></ruby>が<ruby>通<rt>つう</rt></ruby>じずアルバイトの<ruby>面接<rt>めんせつ</rt></ruby>に<ruby>何度<rt>なんど</rt></ruby>も<ruby>落<rt>お</rt></ruby>ちたことです。しかし<ruby>諦<rt>あきら</rt></ruby>めず、<ruby>面接<rt>めんせつ</rt></ruby>の<ruby>練習<rt>れんしゅう</rt></ruby>を<ruby>学校<rt>がっこう</rt></ruby>の<ruby>先生<rt>せんせい</rt></ruby>に<ruby>何度<rt>なんど</rt></ruby>もお<ruby>願<rt>ねが</rt></ruby>いし、10<ruby>社<rt>しゃ</rt></ruby><ruby>目<rt>め</rt></ruby>で<ruby>採用<rt>さいよう</rt></ruby>されました。」",
+    "id": 19
+  },
+  {
+    "category": "学生時代・留学生活",
+    "q": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>好<rt>す</rt></ruby>きなところ、<ruby>嫌<rt>きら</rt></ruby>いなところは<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>嫌<rt>きら</rt></ruby>いなところも<ruby>角<rt>かど</rt></ruby>が立たないように<ruby>伝<rt>つた</rt></ruby>え、それをどうポジティブに<ruby>捉<rt>とら</rt></ruby>えているか<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "「<ruby>好<rt>す</rt></ruby>きなところはサービスが<ruby>丁寧<rt>ていねい</rt></ruby>なところです。<ruby>嫌<rt>きら</rt></ruby>いなところは、ルールが<ruby>少<rt>すこ</rt></ruby>し<ruby>厳<rt>きび</rt></ruby>しすぎると<ruby>感<rt>かん</rt></ruby>じることがある<ruby>点<rt>てん</rt></ruby>ですが、それが<ruby>日本<rt>にほん</rt></ruby>の<ruby>安全<rt>あんぜん</rt></ruby>や<ruby>質<rt>しつ</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さを<ruby>守<rt>まも</rt></ruby>っていると<ruby>理解<rt>りかい</rt></ruby>しています。」",
+    "id": 20
+  },
+  {
+    "category": "性格・価値観",
+    "q": "あなたを<ruby>動物<rt>どうぶつ</rt></ruby>に<ruby>例<rt>たと</rt></ruby>えると<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>性格<rt>せいかく</rt></ruby>（<ruby>長所<rt>ちょうしょ</rt></ruby>）をわかりやすく<ruby>伝<rt>つた</rt></ruby>えるための<ruby>質問<rt>しつもん</rt></ruby>。<ruby>理由<rt>りゆう</rt></ruby>を<ruby>論理的<rt>ろんりてき</rt></ruby>に<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "「<ruby>私<rt>わたし</rt></ruby>は<ruby>犬<rt>いぬ</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>います。<ruby>人<rt>ひと</rt></ruby><ruby>懐<rt>なつ</rt></ruby>っこく、チームで<ruby>行動<rt>こうどう</rt></ruby>することが<ruby>好<rt>す</rt></ruby>きで、<ruby>与<rt>あた</rt></ruby>えられた<ruby>役割<rt>やくわり</rt></ruby>に<ruby>忠実<rt>ちゅうじつ</rt></ruby>に<ruby>取<rt>と</rt></ruby>り<ruby>組<rt>く</rt></ruby>む<ruby>性格<rt>せいかく</rt></ruby>だからです。」",
+    "id": 21
+  },
+  {
+    "category": "性格・価値観",
+    "q": "<ruby>友人<rt>ゆうじん</rt></ruby>からはどんな<ruby>人<rt>ひと</rt></ruby>だと<ruby>言<rt>い</rt></ruby>われますか？",
+    "p": "<ruby>客観的<rt>きゃっかんてき</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>をどう<ruby>見<rt>み</rt></ruby>ているか（<ruby>客観視<rt>きゃっかんし</rt></ruby>）のアピール。<ruby>長所<rt>ちょうしょ</rt></ruby>と<ruby>一致<rt>いっち</rt></ruby>させること。",
+    "e": "「『いつも<ruby>笑顔<rt>えがお</rt></ruby>で、<ruby>相談<rt>そうだん</rt></ruby>しやすい<ruby>人<rt>ひと</rt></ruby>』と<ruby>言<rt>い</rt></ruby>われます。グループワークでも、みんなの<ruby>意見<rt>いけん</rt></ruby>をまとめる<ruby>役割<rt>やくわり</rt></ruby>を<ruby>任<rt>まか</rt></ruby>されることが<ruby>多<rt>おお</rt></ruby>いです。」",
+    "id": 22
+  },
+  {
+    "category": "性格・価値観",
+    "q": "あなたの「<ruby>強<rt>つよ</rt></ruby>み」はどう<ruby>仕事<rt>しごと</rt></ruby>で<ruby>活<rt>い</rt></ruby>かせますか？",
+    "p": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>みが、<ruby>応募<rt>おうぼ</rt></ruby>している<ruby>企業<rt>きぎょう</rt></ruby>のどんな<ruby>業務<rt>ぎょうむ</rt></ruby>で<ruby>役<rt>やく</rt></ruby>に<ruby>立<rt>た</rt></ruby>つかを<ruby>具体的<rt>ぐたいてき</rt></ruby>に<ruby>想像<rt>そうぞう</rt></ruby>させること。",
+    "e": "「<ruby>私<rt>わたし</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>みである『<ruby>粘<rt>ねば</rt></ruby>り<ruby>強<rt>ずよ</rt></ruby>さ』は、<ruby>営業職<rt>えいぎょうしょく</rt></ruby>においてお<ruby>客様<rt>きゃくさま</rt></ruby>と<ruby>何度<rt>なんど</rt></ruby>も<ruby>関係<rt>かんけい</rt></ruby>を築き、<ruby>信頼<rt>しんらい</rt></ruby>を<ruby>得<rt>え</rt></ruby>て<ruby>契約<rt>けいやく</rt></ruby>に<ruby>繋<rt>つな</rt></ruby>げる<ruby>過程<rt>かてい</rt></ruby>で<ruby>活<rt>い</rt></ruby>かせると<ruby>考<rt>かんが</rt></ruby>えています。」",
+    "id": 23
+  },
+  {
+    "category": "性格・価値観",
+    "q": "<ruby>人<rt>ひと</rt></ruby>と<ruby>関<rt>かか</rt></ruby>わるときに<ruby>気<rt>き</rt></ruby>をつけていることは<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>協調性<rt>きょうちょうせい</rt></ruby>や、<ruby>相手<rt>あいて</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>に<ruby>立<rt>た</rt></ruby>って<ruby>考<rt>かんが</rt></ruby>える<ruby>思<rt>おも</rt></ruby>いやりの<ruby>心<rt>こころ</rt></ruby>があるかを<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「<ruby>相手<rt>あいて</rt></ruby>のバックグラウンドや<ruby>文化<rt>ぶんか</rt></ruby>を<ruby>尊重<rt>そんちょう</rt></ruby>し、<ruby>先入観<rt>せんにゅうかん</rt></ruby>を<ruby>持<rt>も</rt></ruby>たずに<ruby>話<rt>はなし</rt></ruby>を<ruby>聞<rt>き</rt></ruby>くことです。また、<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>挨拶<rt>あいさつ</rt></ruby>することも<ruby>常<rt>つね</rt></ruby>に<ruby>心<rt>こころ</rt></ruby>がけています。」",
+    "id": 24
+  },
+  {
+    "category": "性格・価値観",
+    "q": "<ruby>嫌<rt>いや</rt></ruby>なことがあったとき、どう<ruby>切<rt>き</rt></ruby>り<ruby>替<rt>か</rt></ruby>えますか？",
+    "p": "<ruby>感情<rt>かんじょう</rt></ruby>をコントロールし、<ruby>仕事<rt>しごと</rt></ruby>に<ruby>引<rt>ひ</rt></ruby>きずらない<ruby>力<rt>ちから</rt></ruby>があるかを<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「<ruby>一度<rt>いちど</rt></ruby><ruby>深呼吸<rt>しんこきゅう</rt></ruby>をして、<ruby>何<rt>なに</rt></ruby>が<ruby>原因<rt>げんいん</rt></ruby>だったかを<ruby>客観的<rt>きゃっかんてき</rt></ruby>に<ruby>考<rt>かんが</rt></ruby>えます。<ruby>反省<rt>はんせい</rt></ruby>すべき<ruby>点<rt>てん</rt></ruby>はメモに<ruby>書<rt>か</rt></ruby>き<ruby>出<rt>だ</rt></ruby>して<ruby>次<rt>つぎ</rt></ruby>に<ruby>活<rt>い</rt></ruby>かし、それ<ruby>以上<rt>いじょう</rt></ruby>は<ruby>引<rt>ひ</rt></ruby>きずらないようにしています。」",
+    "id": 25
+  },
+  {
+    "category": "性格・価値観",
+    "q": "リーダーシップを<ruby>発揮<rt>はっき</rt></ruby>した<ruby>経験<rt>けいけん</rt></ruby>はありますか？",
+    "p": "<ruby>役職<rt>やくしょく</rt></ruby>としてのリーダーだけでなく、<ruby>自分<rt>じぶん</rt></ruby>から<ruby>周<rt>まわ</rt></ruby>りに<ruby>働<rt>はたら</rt></ruby>きかけた<ruby>経験<rt>けいけん</rt></ruby>を<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "「<ruby>学校<rt>がっこう</rt></ruby>の<ruby>文化祭<rt>ぶんかさい</rt></ruby>で<ruby>模擬店<rt>もぎてん</rt></ruby>のリーダーを<ruby>務<rt>つと</rt></ruby>めました。メンバーの<ruby>得意<rt>とくい</rt></ruby>なことに<ruby>合<rt>あ</rt></ruby>わせて<ruby>役割<rt>やくわり</rt></ruby>を<ruby>分担<rt>ぶんたん</rt></ruby>し、<ruby>全員<rt>ぜんいん</rt></ruby>が<ruby>楽<rt>たの</rt></ruby>しく<ruby>参加<rt>さんか</rt></ruby>できる<ruby>雰囲気<rt>ふんいき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>りました。」",
+    "id": 26
+  },
+  {
+    "category": "性格・価値観",
+    "q": "チームで<ruby>協力<rt>きょうりょく</rt></ruby>して<ruby>何<rt>なに</rt></ruby>かを<ruby>成<rt>な</rt></ruby>し<ruby>遂<rt>と</rt></ruby>げた<ruby>経験<rt>けいけん</rt></ruby>はありますか？",
+    "p": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>会社<rt>かいしゃ</rt></ruby>で<ruby>重要視<rt>じゅうようし</rt></ruby>される「チームワーク」の<ruby>能力<rt>のうりょく</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「<ruby>校外<rt>こうがい</rt></ruby>イベントの<ruby>準備<rt>じゅんび</rt></ruby>で、<ruby>意見<rt>いけん</rt></ruby>が<ruby>分<rt>わ</rt></ruby>かれた<ruby>際<rt>さい</rt></ruby>、<ruby>私<rt>わたし</rt></ruby>が<ruby>間<rt>あいだ</rt></ruby>に<ruby>入<rt>はい</rt></ruby>って<ruby>両方<rt>りょうほう</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>取<rt>と</rt></ruby>り<ruby>入<rt>い</rt></ruby>れた<ruby>新<rt>あたら</rt></ruby>しい<ruby>案<rt>あん</rt></ruby>を<ruby>提案<rt>ていあん</rt></ruby>し、<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>発表<rt>はっぴょう</rt></ruby>を<ruby>成功<rt>せいこう</rt></ruby>させることができました。」",
+    "id": 27
+  },
+  {
+    "category": "性格・価値観",
+    "q": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>弱<rt>よわ</rt></ruby>みを<ruby>克服<rt>こくふく</rt></ruby>するためにしていることは？",
+    "p": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>課題<rt>かだい</rt></ruby>から<ruby>逃<rt>に</rt></ruby>げず、<ruby>改善<rt>かいぜん</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて<ruby>行動<rt>こうどう</rt></ruby>していることを<ruby>伝<rt>つた</rt></ruby>えること。",
+    "e": "「<ruby>心配<rt>しんぱい</rt></ruby><ruby>性<rt>せい</rt></ruby>で<ruby>確認<rt>かくにん</rt></ruby>に<ruby>時間<rt>じかん</rt></ruby>がかかることが<ruby>弱<rt>よわ</rt></ruby>みですが、<ruby>優先順位<rt>ゆうせんじゅんい</rt></ruby>をつけて『いつまでに<ruby>終<rt>お</rt></ruby>わらせるか』<ruby>時間<rt>じかん</rt></ruby>を<ruby>区切<rt>くぎ</rt></ruby>ることで<ruby>克服<rt>こくふく</rt></ruby>するようにしています。」",
+    "id": 28
+  },
+  {
+    "category": "性格・価値観",
+    "q": "<ruby>人生<rt>じんせい</rt></ruby>で<ruby>一番大切<rt>いちばんたいせつ</rt></ruby>にしていることは<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>仕事<rt>しごと</rt></ruby>や<ruby>人生<rt>じんせい</rt></ruby>に<ruby>対<rt>たい</rt></ruby>する<ruby>根本的<rt>こんぽんてき</rt></ruby>な<ruby>価値観<rt>かちかん</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えること。",
+    "e": "「『<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>忘<rt>わす</rt></ruby>れないこと』です。<ruby>親<rt>おや</rt></ruby>や<ruby>友人<rt>ゆうじん</rt></ruby>、<ruby>先生<rt>せんせい</rt></ruby>など、<ruby>自分<rt>じぶん</rt></ruby>を<ruby>支<rt>ささ</rt></ruby>えてくれる<ruby>人<rt>ひと</rt></ruby>がいるから<ruby>今<rt>いま</rt></ruby>の<ruby>自分<rt>じぶん</rt></ruby>があると<ruby>考<rt>かんが</rt></ruby>え、<ruby>常<rt>つね</rt></ruby>に<ruby>行動<rt>こうどう</rt></ruby>で<ruby>恩返<rt>おんがえ</rt></ruby>しをしたいと<ruby>思<rt>おも</rt></ruby>っています。」",
+    "id": 29
+  },
+  {
+    "category": "性格・価値観",
+    "q": "<ruby>何<rt>なに</rt></ruby>をしているときが<ruby>一番<rt>いちばん</rt></ruby><ruby>楽<rt>たの</rt></ruby>しいですか？",
+    "p": "あなたの<ruby>人柄<rt>ひとがら</rt></ruby>やモチベーションの<ruby>源泉<rt>げんせん</rt></ruby>（<ruby>何<rt>なに</rt></ruby>に<ruby>喜<rt>よろこ</rt></ruby>びを<ruby>感<rt>かん</rt></ruby>じるか）を<ruby>伝<rt>つた</rt></ruby>えること。",
+    "e": "「<ruby>新<rt>あたら</rt></ruby>しいことを<ruby>学<rt>まな</rt></ruby>び、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>成長<rt>せいちょう</rt></ruby>を<ruby>実感<rt>じっかん</rt></ruby>できたときです。<ruby>最近<rt>さいきん</rt></ruby>はITの<ruby>資格<rt>しかく</rt></ruby><ruby>勉強<rt>べんきょう</rt></ruby>をしており、<ruby>新<rt>あたら</rt></ruby>しい<ruby>知識<rt>ちしき</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>できたときにとても<ruby>楽<rt>たの</rt></ruby>しさを<ruby>感<rt>かん</rt></ruby>じます。」",
+    "id": 30
+  },
+  {
+    "category": "仕事への姿勢・キャリア",
+    "q": "あなたにとって<ruby>仕事<rt>しごと</rt></ruby>とは<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>働<rt>はたら</rt></ruby>くことへの<ruby>価値観<rt>かちかん</rt></ruby>。お<ruby>金<rt>かね</rt></ruby>だけでなく、<ruby>自己<rt>じこ</rt></ruby><ruby>成長<rt>せいちょう</rt></ruby>や<ruby>社会<rt>しゃかい</rt></ruby><ruby>貢献<rt>こうけん</rt></ruby>などの<ruby>視点<rt>してん</rt></ruby>を<ruby>入<rt>い</rt></ruby>れること。",
+    "e": "「<ruby>自分<rt>じぶん</rt></ruby>を<ruby>成長<rt>せいちょう</rt></ruby>させ、<ruby>同時<rt>どうじ</rt></ruby>に<ruby>社会<rt>しゃかい</rt></ruby>や<ruby>人々<rt>ひとびと</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>することだと<ruby>思<rt>おも</rt></ruby>います。<ruby>仕事<rt>しごと</rt></ruby>を<ruby>通<rt>つう</rt></ruby>じてスキルを<ruby>磨<rt>みが</rt></ruby>き、<ruby>御社<rt>おんしゃ</rt></ruby>のお<ruby>客様<rt>きゃくさま</rt></ruby>に<ruby>喜<rt>よろこ</rt></ruby>んでいただくことが<ruby>私<rt>わたし</rt></ruby>の<ruby>喜<rt>よろこ</rt></ruby>びです。」",
+    "id": 31
+  },
+  {
+    "category": "仕事への姿勢・キャリア",
+    "q": "<ruby>働<rt>はたら</rt></ruby>くうえで<ruby>大切<rt>たいせつ</rt></ruby>にしたいことは<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>仕事<rt>しごと</rt></ruby>を<ruby>進<rt>すす</rt></ruby>める<ruby>上<rt>うえ</rt></ruby>での<ruby>自分<rt>じぶん</rt></ruby>のルールや、<ruby>人間関係<rt>にんげんかんけい</rt></ruby>の<ruby>重要性<rt>じゅうようせい</rt></ruby>などを<ruby>伝<rt>つた</rt></ruby>えること。",
+    "e": "「チームとの『<ruby>信頼関係<rt>しんらいかんけい</rt></ruby>』です。<ruby>一人<rt>ひとり</rt></ruby>でできることには<ruby>限界<rt>げんかい</rt></ruby>があるので、しっかり<ruby>報告<rt>ほうこく</rt></ruby>・<ruby>連絡<rt>れんらく</rt></ruby>・<ruby>相談<rt>そうだん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>い、<ruby>周囲<rt>しゅうい</rt></ruby>と<ruby>協力<rt>きょうりょく</rt></ruby>して<ruby>進<rt>すす</rt></ruby>めることを<ruby>大切<rt>たいせつ</rt></ruby>にしたいです。」",
+    "id": 32
+  },
+  {
+    "category": "仕事への姿勢・キャリア",
+    "q": "どのような<ruby>環境<rt>かんきょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>きたいですか？",
+    "p": "<ruby>応募<rt>おうぼ</rt></ruby><ruby>企業<rt>きぎょう</rt></ruby>の<ruby>社風<rt>しゃふう</rt></ruby>や<ruby>職場環境<rt>しょくばかんきょう</rt></ruby>と<ruby>一致<rt>いっち</rt></ruby>していることをアピールすること。",
+    "e": "「<ruby>年齢<rt>ねんれい</rt></ruby>や<ruby>国籍<rt>こくせき</rt></ruby>に<ruby>関係<rt>かんけい</rt></ruby>なく、お<ruby>互<rt>たが</rt></ruby>いの<ruby>意見<rt>いけん</rt></ruby>を言い<ruby>合<rt>あ</rt></ruby>える<ruby>風通<rt>かぜとお</rt></ruby>しの<ruby>良<rt>よ</rt></ruby>い<ruby>環境<rt>かんきょう</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>きたいです。<ruby>御社<rt>おんしゃ</rt></ruby>の『<ruby>若手<rt>わかて</rt></ruby>でも<ruby>挑戦<rt>ちょうせん</rt></ruby>できる』という<ruby>社風<rt>しゃふう</rt></ruby>に<ruby>大変<rt>たいへん</rt></ruby><ruby>魅力<rt>みりょく</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じています。」",
+    "id": 33
+  },
+  {
+    "category": "仕事への姿勢・キャリア",
+    "q": "どのようなキャリアアップを<ruby>目指<rt>めざ</rt></ruby>していますか？",
+    "p": "<ruby>長<rt>なが</rt></ruby>く<ruby>働<rt>はたら</rt></ruby>き、ステップアップしていく<ruby>意欲<rt>いよく</rt></ruby>があることを<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「まずは<ruby>現場<rt>げんば</rt></ruby>で<ruby>基礎<rt>きそ</rt></ruby>をしっかり<ruby>学<rt>まな</rt></ruby>び、5<ruby>年後<rt>ねんご</rt></ruby>には<ruby>後輩<rt>こうはい</rt></ruby>を<ruby>指導<rt>しどう</rt></ruby>できるリーダーになりたいです。ゆくゆくはプロジェクトをまとめるマネージャーを<ruby>目指<rt>めざ</rt></ruby>します。」",
+    "id": 34
+  },
+  {
+    "category": "仕事への姿勢・キャリア",
+    "q": "10<ruby>年後<rt>ねんご</rt></ruby>の<ruby>自分<rt>じぶん</rt></ruby>はどうなっていると<ruby>思<rt>おも</rt></ruby>いますか？",
+    "p": "<ruby>長期的<rt>ちょうきてき</rt></ruby>に<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>定着<rt>ていちゃく</rt></ruby>し、<ruby>中核<rt>ちゅうかく</rt></ruby>を<ruby>担<rt>にな</rt></ruby>う<ruby>人材<rt>じんざい</rt></ruby>になっているというビジョンを<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "「10<ruby>年後<rt>ねんご</rt></ruby>は、<ruby>御社<rt>おんしゃ</rt></ruby>の<ruby>海外<rt>かいがい</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>の<ruby>責任者<rt>せきにんしゃ</rt></ruby>として、<ruby>日本<rt>にほん</rt></ruby>と<ruby>海外<rt>かいがい</rt></ruby>の<ruby>架<rt>か</rt></ruby>け<ruby>橋<rt>はし</rt></ruby>となるプロジェクトを<ruby>引<rt>ひ</rt></ruby>っ<ruby>張<rt>ぱ</rt></ruby>る<ruby>存在<rt>そんざい</rt></ruby>になっていたいと<ruby>考<rt>かんが</rt></ruby>えています。」",
+    "id": 35
+  },
+  {
+    "category": "仕事への姿勢・キャリア",
+    "q": "<ruby>理想<rt>りそう</rt></ruby>のリーダーとはどんな<ruby>人<rt>ひと</rt></ruby>ですか？",
+    "p": "<ruby>自分<rt>じぶん</rt></ruby>が<ruby>将来<rt>しょうらい</rt></ruby>なりたい<ruby>姿<rt>すがた</rt></ruby>や、どんな<ruby>先輩<rt>せんぱい</rt></ruby>の<ruby>下<rt>した</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>きたいかという<ruby>価値観<rt>かちかん</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えること。",
+    "e": "「メンバーの<ruby>話<rt>はなし</rt></ruby>をしっかり聞き、<ruby>一人<rt>ひとり</rt></ruby>ひとりの<ruby>強<rt>つよ</rt></ruby>みを<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>せる<ruby>人<rt>ひと</rt></ruby>です。また、<ruby>困難<rt>こんなん</rt></ruby>なときには<ruby>自<rt>みずか</rt></ruby>ら<ruby>先頭<rt>せんとう</rt></ruby>に<ruby>立<rt>た</rt></ruby>って<ruby>行動<rt>こうどう</rt></ruby>できる<ruby>人<rt>ひと</rt></ruby>が<ruby>理想<rt>りそう</rt></ruby>です。」",
+    "id": 36
+  },
+  {
+    "category": "仕事への姿勢・キャリア",
+    "q": "もし<ruby>希望<rt>きぼう</rt></ruby>しない<ruby>部署<rt>ぶしょ</rt></ruby>に<ruby>配属<rt>はいぞく</rt></ruby>されたらどうしますか？",
+    "p": "<ruby>柔軟性<rt>じゅうなんせい</rt></ruby>や、<ruby>置<rt>お</rt></ruby>かれた<ruby>場所<rt>ばしょ</rt></ruby>で<ruby>努力<rt>どりょく</rt></ruby>できる<ruby>適応力<rt>てきおうりょく</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「どの<ruby>部署<rt>ぶしょ</rt></ruby>でも<ruby>会社<rt>かいしゃ</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>できることには<ruby>変<rt>か</rt></ruby>わりないと<ruby>考<rt>かんが</rt></ruby>えます。まずはその<ruby>部署<rt>ぶしょ</rt></ruby>の<ruby>仕事<rt>しごと</rt></ruby>を<ruby>全力<rt>ぜんりょく</rt></ruby>で<ruby>覚<rt>おぼ</rt></ruby>え、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>可能性<rt>かのうせい</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げるチャンスと<ruby>捉<rt>とら</rt></ruby>えます。」",
+    "id": 37
+  },
+  {
+    "category": "仕事への姿勢・キャリア",
+    "q": "<ruby>仕事<rt>しごと</rt></ruby>でミスをしたとき、まず<ruby>何<rt>なに</rt></ruby>をしますか？",
+    "p": "<ruby>隠<rt>かく</rt></ruby>さずにすぐ<ruby>報告<rt>ほうこく</rt></ruby>すること、そして<ruby>改善策<rt>かいぜんさく</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>える<ruby>誠実<rt>せいじつ</rt></ruby>さをアピールすること。",
+    "e": "「まずは<ruby>隠<rt>かく</rt></ruby>さずに、すぐに<ruby>上司<rt>じょうし</rt></ruby>に<ruby>報告<rt>ほうこく</rt></ruby>し<ruby>謝罪<rt>しゃざい</rt></ruby>します。その<ruby>上<rt>うえ</rt></ruby>で、どうリカバリーするか<ruby>上司<rt>じょうし</rt></ruby>の<ruby>指示<rt>しじ</rt></ruby>を<ruby>仰<rt>あお</rt></ruby>ぎ、<ruby>後<rt>のち</rt></ruby>から『なぜミスしたのか』<ruby>原因<rt>げんいん</rt></ruby>と<ruby>対策<rt>たいさく</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えます。」",
+    "id": 38
+  },
+  {
+    "category": "仕事への姿勢・キャリア",
+    "q": "<ruby>意見<rt>いけん</rt></ruby>が<ruby>対立<rt>たいりつ</rt></ruby>したとき、どう<ruby>説得<rt>せっとく</rt></ruby>しますか？",
+    "p": "<ruby>論理的<rt>ろんりてき</rt></ruby>に<ruby>話<rt>はな</rt></ruby>しつつも、<ruby>相手<rt>あいて</rt></ruby>へのリスペクトを<ruby>忘<rt>わす</rt></ruby>れないコミュニケーション<ruby>力<rt>ちから</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「<ruby>相手<rt>あいて</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>否定<rt>ひてい</rt></ruby>するのではなく、『そういう<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>もありますね』と<ruby>一度<rt>いちど</rt></ruby><ruby>受<rt>う</rt></ruby>け<ruby>入<rt>い</rt></ruby>れます。その<ruby>上<rt>うえ</rt></ruby>で、データや<ruby>客観的<rt>きゃっかんてき</rt></ruby>な<ruby>事実<rt>じじつ</rt></ruby>をもとに<ruby>自分<rt>じぶん</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>説明<rt>せつめい</rt></ruby>します。」",
+    "id": 39
+  },
+  {
+    "category": "仕事への姿勢・キャリア",
+    "q": "わからないことがあったとき、どう<ruby>解決<rt>かいけつ</rt></ruby>しますか？",
+    "p": "まずは<ruby>自分<rt>じぶん</rt></ruby>で<ruby>調<rt>しら</rt></ruby>べる<ruby>自走<rt>じそう</rt></ruby><ruby>力<rt>ちから</rt></ruby>と、<ruby>適切<rt>てきせつ</rt></ruby>なタイミングで<ruby>質問<rt>しつもん</rt></ruby>する<ruby>力<rt>ちから</rt></ruby>を<ruby>見<rt>み</rt></ruby>せること。",
+    "e": "「まずは<ruby>自分<rt>じぶん</rt></ruby>で<ruby>調<rt>しら</rt></ruby>べます。それでもわからない<ruby>場合<rt>ばあい</rt></ruby>や、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>判断<rt>はんだん</rt></ruby>に<ruby>自信<rt>じしん</rt></ruby>がない<ruby>場合<rt>ばあい</rt></ruby>は、<ruby>先輩<rt>せんぱい</rt></ruby>の<ruby>忙<rt>いそが</rt></ruby>しくないタイミングを<ruby>見計<rt>みはか</rt></ruby>らって<ruby>質問<rt>しつもん</rt></ruby>するようにしています。」",
+    "id": 40
+  },
+  {
+    "category": "異文化理解・コミュニケーション",
+    "q": "<ruby>母国<rt>ぼこく</rt></ruby>と<ruby>日本<rt>にほん</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>いで<ruby>苦労<rt>くろう</rt></ruby>したことは<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>違<rt>ちが</rt></ruby>いを<ruby>否定<rt>ひてい</rt></ruby>するのではなく、どう<ruby>乗<rt>の</rt></ruby>り<ruby>越<rt>こ</rt></ruby>えて<ruby>適応<rt>てきおう</rt></ruby>したかを<ruby>伝<rt>つた</rt></ruby>えること。",
+    "e": "「<ruby>本音<rt>ほんね</rt></ruby>と<ruby>建前<rt>たてまえ</rt></ruby>（<ruby>空気<rt>くうき</rt></ruby>を<ruby>読<rt>よ</rt></ruby>むこと）の<ruby>違<rt>ちが</rt></ruby>いに<ruby>苦労<rt>くろう</rt></ruby>しました。しかし、<ruby>相手<rt>あいて</rt></ruby>を<ruby>思<rt>おも</rt></ruby>いやる<ruby>優<rt>やさ</rt></ruby>しさから<ruby>来<rt>く</rt></ruby>るものだと<ruby>理解<rt>りかい</rt></ruby>してからは、<ruby>相手<rt>あいて</rt></ruby>の<ruby>立場<rt>たちば</rt></ruby>に<ruby>立<rt>た</rt></ruby>って<ruby>考<rt>かんが</rt></ruby>えることができるようになりました。」",
+    "id": 41
+  },
+  {
+    "category": "異文化理解・コミュニケーション",
+    "q": "<ruby>異<rt>こと</rt></ruby>なる<ruby>背景<rt>はいけい</rt></ruby>を<ruby>持<rt>も</rt></ruby>つ<ruby>人<rt>ひと</rt></ruby>と<ruby>働<rt>はたら</rt></ruby>く<ruby>際<rt>さい</rt></ruby>、<ruby>何<rt>なに</rt></ruby>が<ruby>大切<rt>たいせつ</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>いますか？",
+    "p": "<ruby>多様性<rt>たようせい</rt></ruby>を<ruby>受<rt>う</rt></ruby>け<ruby>入<rt>い</rt></ruby>れ、チームとして<ruby>協働<rt>きょうどう</rt></ruby>するマインドを<ruby>持<rt>も</rt></ruby>っているか<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「『<ruby>自分<rt>じぶん</rt></ruby>の<ruby>常識<rt>じょうしき</rt></ruby>がすべてではない』と<ruby>理解<rt>りかい</rt></ruby>し、<ruby>相手<rt>あいて</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>や<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>をリスペクトすることです。<ruby>話<rt>はな</rt></ruby>し<ruby>合<rt>あ</rt></ruby>いを<ruby>通<rt>つう</rt></ruby>じて<ruby>共通<rt>きょうつう</rt></ruby>のゴールを<ruby>見<rt>み</rt></ruby>つけることが<ruby>大切<rt>たいせつ</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>います。」",
+    "id": 42
+  },
+  {
+    "category": "異文化理解・コミュニケーション",
+    "q": "<ruby>日本人<rt>にほんじん</rt></ruby>の<ruby>働<rt>はたら</rt></ruby>き<ruby>方<rt>ほう</rt></ruby>についてどう<ruby>思<rt>おも</rt></ruby>いますか？",
+    "p": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>働<rt>はたら</rt></ruby>き<ruby>方<rt>ほう</rt></ruby>（チームワーク、<ruby>几帳面<rt>きちょうめん</rt></ruby>さ<ruby>等<rt>など</rt></ruby>）を<ruby>肯定的<rt>こうていてき</rt></ruby>に<ruby>捉<rt>とら</rt></ruby>えていることを<ruby>伝<rt>つた</rt></ruby>えること。",
+    "e": "「チーム<ruby>全体<rt>ぜんたい</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>を<ruby>大切<rt>たいせつ</rt></ruby>にし、<ruby>責任感<rt>せきにんかん</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>細部<rt>さいぶ</rt></ruby>まで<ruby>丁寧<rt>ていねい</rt></ruby>に<ruby>取<rt>と</rt></ruby>り<ruby>組<rt>く</rt></ruby>む<ruby>点<rt>てん</rt></ruby>が<ruby>素晴<rt>すば</rt></ruby>らしいと<ruby>思<rt>おも</rt></ruby>います。<ruby>私<rt>わたし</rt></ruby>もその<ruby>働<rt>はたら</rt></ruby>き<ruby>方<rt>ほう</rt></ruby>を<ruby>身<rt>み</rt></ruby>につけたいです。」",
+    "id": 43
+  },
+  {
+    "category": "異文化理解・コミュニケーション",
+    "q": "<ruby>母国<rt>ぼこく</rt></ruby>の<ruby>良<rt>よ</rt></ruby>さを<ruby>日本<rt>にほん</rt></ruby>にどう<ruby>伝<rt>つた</rt></ruby>えたいですか？",
+    "p": "<ruby>自国<rt>じこく</rt></ruby>の<ruby>文化<rt>ぶんか</rt></ruby>に<ruby>誇<rt>ほこ</rt></ruby>りを<ruby>持<rt>も</rt></ruby>ちつつ、それを<ruby>日本<rt>にほん</rt></ruby>のビジネスにどう<ruby>活<rt>い</rt></ruby>かせるかを<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "「<ruby>私<rt>わたし</rt></ruby>の<ruby>母国<rt>ぼこく</rt></ruby>は<ruby>成長<rt>せいちょう</rt></ruby>が<ruby>早<rt>はや</rt></ruby>く、<ruby>新<rt>あたら</rt></ruby>しいものを<ruby>柔軟<rt>じゅうなん</rt></ruby>に<ruby>取<rt>と</rt></ruby>り<ruby>入<rt>い</rt></ruby>れるスピード<ruby>感<rt>かん</rt></ruby>があります。そのスピード<ruby>感<rt>かん</rt></ruby>を、<ruby>日本<rt>にほん</rt></ruby>の<ruby>丁寧<rt>ていねい</rt></ruby>なサービスと<ruby>掛<rt>か</rt></ruby>け<ruby>合<rt>あ</rt></ruby>わせていきたいです。」",
+    "id": 44
+  },
+  {
+    "category": "異文化理解・コミュニケーション",
+    "q": "コミュニケーションで<ruby>失敗<rt>しっぱい</rt></ruby>した<ruby>経験<rt>けいけん</rt></ruby>はありますか？",
+    "p": "<ruby>失敗談<rt>しっぱいだん</rt></ruby>から、<ruby>言葉<rt>ことば</rt></ruby>やコミュニケーションの<ruby>大切<rt>たいせつ</rt></ruby>さをどう<ruby>学<rt>まな</rt></ruby>んだかを<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "「アルバイトで、<ruby>言葉<rt>ことば</rt></ruby>のニュアンスの<ruby>違<rt>ちが</rt></ruby>いから<ruby>指示<rt>しじ</rt></ruby>を<ruby>誤解<rt>ごかい</rt></ruby>してしまったことがあります。それ<ruby>以来<rt>いらい</rt></ruby>、わからないことは<ruby>自分<rt>じぶん</rt></ruby>の<ruby>言葉<rt>ことば</rt></ruby>で<ruby>復唱<rt>ふくしょう</rt></ruby>して<ruby>確認<rt>かくにん</rt></ruby>するようにしました。」",
+    "id": 45
+  },
+  {
+    "category": "異文化理解・コミュニケーション",
+    "q": "<ruby>上司<rt>じょうし</rt></ruby>からの<ruby>指示<rt>しじ</rt></ruby>が<ruby>曖昧<rt>あいまい</rt></ruby>だった<ruby>場合<rt>ばあい</rt></ruby>どうしますか？",
+    "p": "<ruby>自分勝手<rt>じぶんかって</rt></ruby>に<ruby>行動<rt>こうどう</rt></ruby>せず、<ruby>質問<rt>しつもん</rt></ruby>して<ruby>正確<rt>せいかく</rt></ruby>に<ruby>意図<rt>いと</rt></ruby>を<ruby>把握<rt>はあく</rt></ruby>する<ruby>姿勢<rt>しせい</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「『〇〇という<ruby>理解<rt>りかい</rt></ruby>でよろしいでしょうか？』と、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>考<rt>かんが</rt></ruby>えを<ruby>添<rt>そ</rt></ruby>えて<ruby>具体的<rt>ぐたいてき</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>します。<ruby>勝手<rt>かって</rt></ruby>な<ruby>解釈<rt>かいしゃく</rt></ruby>で<ruby>仕事<rt>しごと</rt></ruby>を<ruby>進<rt>すす</rt></ruby>めて<ruby>迷惑<rt>めいわく</rt></ruby>をかけないようにします。」",
+    "id": 46
+  },
+  {
+    "category": "異文化理解・コミュニケーション",
+    "q": "<ruby>日本語<rt>にほんご</rt></ruby>でのコミュニケーションで<ruby>気<rt>き</rt></ruby>をつけていることは<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>言語<rt>げんご</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>を<ruby>補<rt>おぎな</rt></ruby>うための<ruby>工夫<rt>くふう</rt></ruby>や<ruby>努力<rt>どりょく</rt></ruby>をしていることをアピールすること。",
+    "e": "「<ruby>難<rt>むずか</rt></ruby>しい<ruby>言葉<rt>ことば</rt></ruby>を<ruby>無理<rt>むり</rt></ruby>に<ruby>使<rt>つか</rt></ruby>わず、シンプルでわかりやすい<ruby>表現<rt>ひょうげん</rt></ruby>を<ruby>心<rt>こころ</rt></ruby>がけています。また、<ruby>相手<rt>あいて</rt></ruby>の<ruby>目<rt>め</rt></ruby>を<ruby>見<rt>み</rt></ruby>て、<ruby>表情<rt>ひょうじょう</rt></ruby>やジェスチャーも<ruby>使<rt>つか</rt></ruby>って<ruby>熱意<rt>ねつい</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えるようにしています。」",
+    "id": 47
+  },
+  {
+    "category": "異文化理解・コミュニケーション",
+    "q": "<ruby>敬語<rt>けいご</rt></ruby>を<ruby>使<rt>つか</rt></ruby>うのが<ruby>難<rt>むずか</rt></ruby>しいとき、どう<ruby>工夫<rt>くふう</rt></ruby>していますか？",
+    "p": "<ruby>完璧<rt>かんぺき</rt></ruby>でなくても、<ruby>誠意<rt>せいい</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>対応<rt>たいおう</rt></ruby>をしようとする<ruby>姿勢<rt>しせい</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「<ruby>完璧<rt>かんぺき</rt></ruby>な<ruby>敬語<rt>けいご</rt></ruby>はまだ<ruby>勉強中<rt>べんきょうちゅう</rt></ruby>ですが、<ruby>常<rt>つね</rt></ruby>に『<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>言葉<rt>ことば</rt></ruby>（です・ます）』を<ruby>使<rt>つか</rt></ruby>うことと、<ruby>失礼<rt>しつれい</rt></ruby>のない<ruby>態度<rt>たいど</rt></ruby>で<ruby>接<rt>せっ</rt></ruby>することで、<ruby>相手<rt>あいて</rt></ruby>への<ruby>敬意<rt>けいい</rt></ruby>が<ruby>伝<rt>つた</rt></ruby>わるように<ruby>工夫<rt>くふう</rt></ruby>しています。」",
+    "id": 48
+  },
+  {
+    "category": "異文化理解・コミュニケーション",
+    "q": "クレーム<ruby>対応<rt>たいおう</rt></ruby>の<ruby>経験<rt>けいけん</rt></ruby>はありますか？",
+    "p": "ストレスの<ruby>多<rt>おお</rt></ruby>い<ruby>状況<rt>じょうきょう</rt></ruby>でも<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>対応<rt>たいおう</rt></ruby>し、お<ruby>客様<rt>きゃくさま</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちに<ruby>寄<rt>よ</rt></ruby>り<ruby>添<rt>そ</rt></ruby>えるかを<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「<ruby>接客<rt>せっきゃく</rt></ruby><ruby>業<rt>ぎょう</rt></ruby>のアルバイトでありました。まずはお<ruby>客様<rt>きゃくさま</rt></ruby>の<ruby>不満<rt>ふまん</rt></ruby>を<ruby>最後<rt>さいご</rt></ruby>まで聞き、<ruby>気持<rt>きも</rt></ruby>ちに<ruby>寄<rt>よ</rt></ruby>り<ruby>添<rt>そ</rt></ruby>って<ruby>謝罪<rt>しゃざい</rt></ruby>しました。その<ruby>上<rt>うえ</rt></ruby>で、<ruby>自分<rt>じぶん</rt></ruby>が<ruby>出来<rt>でき</rt></ruby>る<ruby>解決策<rt>かいけつさく</rt></ruby>を<ruby>素早<rt>すばや</rt></ruby>く<ruby>提案<rt>ていあん</rt></ruby>しました。」",
+    "id": 49
+  },
+  {
+    "category": "異文化理解・コミュニケーション",
+    "q": "<ruby>世代<rt>せだい</rt></ruby>の<ruby>違<rt>ちが</rt></ruby>う<ruby>人<rt>ひと</rt></ruby>（<ruby>年上<rt>としうえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>）と<ruby>上手<rt>うま</rt></ruby>く<ruby>関<rt>かか</rt></ruby>われますか？",
+    "p": "<ruby>目上<rt>めうえ</rt></ruby>の<ruby>人<rt>ひと</rt></ruby>を<ruby>敬<rt>たかし</rt></ruby>い、<ruby>教<rt>おし</rt></ruby>えを<ruby>乞<rt>こ</rt></ruby>う<ruby>素直<rt>すなお</rt></ruby>な<ruby>姿勢<rt>しせい</rt></ruby>があることをアピールすること。",
+    "e": "「はい。アルバイト<ruby>先<rt>さき</rt></ruby>には<ruby>年配<rt>ねんぱい</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>も<ruby>多<rt>おお</rt></ruby>くいましたが、<ruby>人生<rt>じんせい</rt></ruby>の<ruby>先輩<rt>せんぱい</rt></ruby>として<ruby>敬意<rt>けいい</rt></ruby>を<ruby>持<rt>も</rt></ruby>ち、わからないことは<ruby>積極的<rt>せっきょくてき</rt></ruby>に<ruby>教<rt>おそ</rt></ruby>わることで、<ruby>可愛<rt>かわい</rt></ruby>がっていただきました。」",
+    "id": 50
+  },
+  {
+    "category": "業界・企業理解",
+    "q": "この<ruby>業界<rt>ぎょうかい</rt></ruby>に<ruby>興味<rt>きょうみ</rt></ruby>を<ruby>持<rt>も</rt></ruby>ったきっかけは<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>業界<rt>ぎょうかい</rt></ruby>の<ruby>特性<rt>とくせい</rt></ruby>と、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>原体験<rt>げんたいけん</rt></ruby>（<ruby>過去<rt>かこ</rt></ruby>のエピソード）をリンクさせて<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "「<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>て<ruby>初<rt>はじ</rt></ruby>めて〇〇のサービスを<ruby>利用<rt>りよう</rt></ruby>し、その<ruby>便利<rt>べんり</rt></ruby>さと<ruby>質<rt>しつ</rt></ruby>の<ruby>高<rt>たか</rt></ruby>さに<ruby>感動<rt>かんどう</rt></ruby>したのがきっかけです。<ruby>私<rt>わたし</rt></ruby>もこの<ruby>感動<rt>かんどう</rt></ruby>を<ruby>多<rt>おお</rt></ruby>くの<ruby>人<rt>ひと</rt></ruby>に<ruby>届<rt>とど</rt></ruby>ける<ruby>側<rt>がわ</rt></ruby>になりたいと<ruby>思<rt>おも</rt></ruby>いました。」",
+    "id": 51
+  },
+  {
+    "category": "業界・企業理解",
+    "q": "<ruby>当社<rt>とうしゃ</rt></ruby>のサービス（<ruby>商品<rt>しょうひん</rt></ruby>）を<ruby>使<rt>つか</rt></ruby>ったことはありますか？",
+    "p": "<ruby>事前<rt>じぜん</rt></ruby>に<ruby>企業<rt>きぎょう</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby>をし、<ruby>一人<rt>ひとり</rt></ruby>のユーザーとしての<ruby>感想<rt>かんそう</rt></ruby>だけでなく、<ruby>働<rt>はたら</rt></ruby>く<ruby>側<rt>がわ</rt></ruby>の<ruby>視点<rt>してん</rt></ruby>も<ruby>交<rt>まじ</rt></ruby>えること。",
+    "e": "「はい。<ruby>御社<rt>おんしゃ</rt></ruby>の〇〇を<ruby>利用<rt>りよう</rt></ruby>した<ruby>際<rt>さい</rt></ruby>、<ruby>使<rt>つか</rt></ruby>いやすさだけでなく、アフターサポートが<ruby>丁寧<rt>ていねい</rt></ruby>な<ruby>点<rt>てん</rt></ruby>に<ruby>惹<rt>ひ</rt></ruby>かれました。<ruby>私<rt>わたし</rt></ruby>もお<ruby>客様<rt>きゃくさま</rt></ruby>に<ruby>安心<rt>あんしん</rt></ruby>を<ruby>提供<rt>ていきょう</rt></ruby>する<ruby>一員<rt>いちいん</rt></ruby>になりたいです。」",
+    "id": 52
+  },
+  {
+    "category": "業界・企業理解",
+    "q": "<ruby>当社<rt>とうしゃ</rt></ruby>の<ruby>弱<rt>よわ</rt></ruby>みは<ruby>何<rt>なん</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>いますか？",
+    "p": "ただ<ruby>批判<rt>ひはん</rt></ruby>するのではなく、「<ruby>伸<rt>の</rt></ruby>びしろ」として<ruby>捉<rt>とら</rt></ruby>え、<ruby>自分<rt>じぶん</rt></ruby>がどう<ruby>貢献<rt>こうけん</rt></ruby>できるかを<ruby>提案<rt>ていあん</rt></ruby>すること。",
+    "e": "「<ruby>日本国内<rt>にほんこくない</rt></ruby>では<ruby>圧倒的<rt>あっとうてき</rt></ruby>なシェアがありますが、<ruby>海外<rt>かいがい</rt></ruby>の〇〇<ruby>市場<rt>しじょう</rt></ruby>ではまだ<ruby>知名度<rt>ちめいど</rt></ruby>が<ruby>低<rt>ひく</rt></ruby>い<ruby>点<rt>てん</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>います。だからこそ、<ruby>私<rt>わたし</rt></ruby>の<ruby>語学力<rt>ごがくりょく</rt></ruby>を<ruby>活<rt>い</rt></ruby>かして<ruby>海外進出<rt>かいがいしんしゅつ</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>したいです。」",
+    "id": 53
+  },
+  {
+    "category": "業界・企業理解",
+    "q": "<ruby>競合他社<rt>きょうごうたしゃ</rt></ruby>ではなく<ruby>当社<rt>とうしゃ</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ<ruby>理由<rt>りゆう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>同業他社<rt>どうぎょうたしゃ</rt></ruby>との<ruby>違<rt>ちが</rt></ruby>い（<ruby>社風<rt>しゃふう</rt></ruby>、<ruby>特定<rt>とくてい</rt></ruby>の<ruby>事業<rt>じぎょう</rt></ruby>、ビジョン<ruby>等<rt>など</rt></ruby>）を<ruby>明確<rt>めいかく</rt></ruby>に<ruby>理解<rt>りかい</rt></ruby>していること。",
+    "e": "「<ruby>他社<rt>たしゃ</rt></ruby>は<ruby>効率<rt>こうりつ</rt></ruby>を<ruby>重視<rt>じゅうし</rt></ruby>していますが、<ruby>御社<rt>おんしゃ</rt></ruby>は『<ruby>顧客<rt>こきゃく</rt></ruby><ruby>一人<rt>ひとり</rt></ruby>ひとりに<ruby>寄<rt>よ</rt></ruby>り<ruby>添<rt>そ</rt></ruby>う』ことを<ruby>理念<rt>りねん</rt></ruby>にしています。<ruby>私<rt>わたし</rt></ruby>のカスタマーファーストの<ruby>価値観<rt>かちかん</rt></ruby>と<ruby>一致<rt>いっち</rt></ruby>しているため<ruby>御社<rt>おんしゃ</rt></ruby>を<ruby>志望<rt>しぼう</rt></ruby>しました。」",
+    "id": 54
+  },
+  {
+    "category": "業界・企業理解",
+    "q": "<ruby>業界<rt>ぎょうかい</rt></ruby>の<ruby>今後<rt>こんご</rt></ruby>の<ruby>動向<rt>どうこう</rt></ruby>をどう<ruby>見<rt>み</rt></ruby>ていますか？",
+    "p": "ニュースや<ruby>業界<rt>ぎょうかい</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby>を<ruby>通<rt>つう</rt></ruby>じて、ビジネスへの<ruby>関心<rt>かんしん</rt></ruby>や<ruby>分析力<rt>ぶんせきりょく</rt></ruby>があることを<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「IT<ruby>化<rt>か</rt></ruby>が<ruby>進<rt>すす</rt></ruby>み、〇〇の<ruby>需要<rt>じゅよう</rt></ruby>はますます<ruby>増<rt>ふ</rt></ruby>えると<ruby>思<rt>おも</rt></ruby>います。<ruby>一方<rt>いっぽう</rt></ruby>で、<ruby>国境<rt>こっきょう</rt></ruby>を<ruby>越<rt>こ</rt></ruby>えた<ruby>競争<rt>きょうそう</rt></ruby>も<ruby>激<rt>はげ</rt></ruby>しくなるため、グローバルな<ruby>視点<rt>してん</rt></ruby>がより<ruby>重要<rt>じゅうよう</rt></ruby>になってくると<ruby>考<rt>かんが</rt></ruby>えています。」",
+    "id": 55
+  },
+  {
+    "category": "業界・企業理解",
+    "q": "<ruby>当社<rt>とうしゃ</rt></ruby>のホームページを<ruby>見<rt>み</rt></ruby>てどう<ruby>思<rt>おも</rt></ruby>いましたか？",
+    "p": "<ruby>具体的<rt>ぐたいてき</rt></ruby>にどこに<ruby>惹<rt>ひ</rt></ruby>かれたか、<ruby>企業<rt>きぎょう</rt></ruby>のメッセージをしっかり<ruby>受<rt>う</rt></ruby>け<ruby>取<rt>と</rt></ruby>っているかを<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「<ruby>社員<rt>しゃいん</rt></ruby>の<ruby>方<rt>ほう</rt></ruby>のインタビュー<ruby>記事<rt>きじ</rt></ruby>が<ruby>印象的<rt>いんしょうてき</rt></ruby>でした。<ruby>若手<rt>わかて</rt></ruby>でも<ruby>裁量<rt>さいりょう</rt></ruby>を<ruby>持<rt>も</rt></ruby>って<ruby>挑戦<rt>ちょうせん</rt></ruby>できる<ruby>環境<rt>かんきょう</rt></ruby>があることが<ruby>伝<rt>つた</rt></ruby>わり、<ruby>自分<rt>じぶん</rt></ruby>もここで<ruby>成長<rt>せいちょう</rt></ruby>したいと<ruby>強<rt>つよ</rt></ruby>く<ruby>感<rt>かん</rt></ruby>じました。」",
+    "id": 56
+  },
+  {
+    "category": "業界・企業理解",
+    "q": "<ruby>当社<rt>とうしゃ</rt></ruby>で最も<ruby>興味<rt>きょうみ</rt></ruby>がある<ruby>事業<rt>じぎょう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>自分<rt>じぶん</rt></ruby>が<ruby>携<rt>たずさ</rt></ruby>わりたい<ruby>事業<rt>じぎょう</rt></ruby>を<ruby>具体的<rt>ぐたいてき</rt></ruby>に<ruby>挙<rt>あ</rt></ruby>げ、<ruby>入社後<rt>にゅうしゃご</rt></ruby>のイメージができていることをアピールすること。",
+    "e": "「<ruby>現在<rt>げんざい</rt></ruby><ruby>展開<rt>てんかい</rt></ruby>されているアジア<ruby>向<rt>む</rt></ruby>け〇〇<ruby>事業<rt>じぎょう</rt></ruby>に最も<ruby>興味<rt>きょうみ</rt></ruby>があります。<ruby>急成長<rt>きゅうせいちょう</rt></ruby>している<ruby>市場<rt>しじょう</rt></ruby>であり、<ruby>私<rt>わたし</rt></ruby>の<ruby>母国<rt>ぼこく</rt></ruby>の<ruby>知識<rt>ちしき</rt></ruby>を<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>活<rt>い</rt></ruby>かせる<ruby>分野<rt>ぶんや</rt></ruby>だと<ruby>感<rt>かん</rt></ruby>じているからです。」",
+    "id": 57
+  },
+  {
+    "category": "業界・企業理解",
+    "q": "<ruby>他<rt>ほか</rt></ruby>にどんな<ruby>業界<rt>ぎょうかい</rt></ruby>を<ruby>受<rt>う</rt></ruby>けていますか？",
+    "p": "<ruby>企業<rt>きぎょう</rt></ruby><ruby>選<rt>えら</rt></ruby>びの「<ruby>軸<rt>じく</rt></ruby>」が<ruby>一貫<rt>いっかん</rt></ruby>していることを<ruby>示<rt>しめ</rt></ruby>すこと。<ruby>嘘<rt>うそ</rt></ruby>はつかず<ruby>正直<rt>しょうじき</rt></ruby>に<ruby>答<rt>こた</rt></ruby>える。",
+    "e": "「『<ruby>日本<rt>にほん</rt></ruby>と<ruby>世界<rt>せかい</rt></ruby>をつなぐ<ruby>仕事<rt>しごと</rt></ruby>』を<ruby>軸<rt>じく</rt></ruby>にしているため、<ruby>御社<rt>おんしゃ</rt></ruby>と<ruby>同<rt>おな</rt></ruby>じ〇〇<ruby>業界<rt>ぎょうかい</rt></ruby>のほか、グローバル<ruby>展開<rt>てんかい</rt></ruby>をしている<ruby>商社<rt>しょうしゃ</rt></ruby>なども<ruby>受<rt>う</rt></ruby>けています。しかし<ruby>第一<rt>だいいち</rt></ruby><ruby>志望<rt>しぼう</rt></ruby>は<ruby>御社<rt>おんしゃ</rt></ruby>です。」",
+    "id": 58
+  },
+  {
+    "category": "業界・企業理解",
+    "q": "<ruby>企業<rt>きぎょう</rt></ruby><ruby>選<rt>えら</rt></ruby>びの<ruby>軸<rt>じく</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>自分<rt>じぶん</rt></ruby>が<ruby>仕事<rt>しごと</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ<ruby>上<rt>うえ</rt></ruby>で<ruby>譲<rt>ゆず</rt></ruby>れない<ruby>基準<rt>きじゅん</rt></ruby>。<ruby>志望<rt>しぼう</rt></ruby><ruby>企業<rt>きぎょう</rt></ruby>の<ruby>強<rt>つよ</rt></ruby>みと<ruby>必<rt>かなら</rt></ruby>ず<ruby>一致<rt>いっち</rt></ruby>させること。",
+    "e": "「<ruby>私<rt>わたし</rt></ruby>の<ruby>軸<rt>じく</rt></ruby>は『<ruby>多様<rt>たよう</rt></ruby>な<ruby>価値観<rt>かちかん</rt></ruby>を<ruby>尊重<rt>そんちょう</rt></ruby>し、グローバルに<ruby>挑戦<rt>ちょうせん</rt></ruby>できる<ruby>環境<rt>かんきょう</rt></ruby>があるか』です。<ruby>多国籍<rt>たこくせき</rt></ruby>なチームで<ruby>世界中<rt>せかいじゅう</rt></ruby>にサービスを<ruby>展開<rt>てんかい</rt></ruby>する<ruby>御社<rt>おんしゃ</rt></ruby>は、まさに<ruby>私<rt>わたし</rt></ruby>の<ruby>軸<rt>じく</rt></ruby>と<ruby>一致<rt>いっち</rt></ruby>します。」",
+    "id": 59
+  },
+  {
+    "category": "業界・企業理解",
+    "q": "<ruby>当社<rt>とうしゃ</rt></ruby>に<ruby>入社<rt>にゅうしゃ</rt></ruby>したら、どのような<ruby>新<rt>あたら</rt></ruby>しい<ruby>視点<rt>してん</rt></ruby>をもたらせますか？",
+    "p": "<ruby>外国人留学生<rt>がいこくじんりゅうがくせい</rt></ruby>だからこcloseの<ruby>強<rt>つよ</rt></ruby>み（<ruby>語学<rt>ごがく</rt></ruby>、<ruby>文化<rt>ぶんか</rt></ruby><ruby>理解<rt>りかい</rt></ruby>、<ruby>異<rt>こと</rt></ruby>なる<ruby>視点<rt>してん</rt></ruby>）をアピールすること。",
+    "e": "「<ruby>日本<rt>にほん</rt></ruby>の<ruby>常識<rt>じょうしき</rt></ruby>にとらわれない、<ruby>海外<rt>かいがい</rt></ruby>ユーザーのリアルな<ruby>視点<rt>してん</rt></ruby>を<ruby>提供<rt>ていきょう</rt></ruby>できます。<ruby>製品開発<rt>せいひんかいはつ</rt></ruby>において、<ruby>私<rt>わたし</rt></ruby>の<ruby>母国<rt>ぼこく</rt></ruby>でのトレンドを<ruby>活<rt>い</rt></ruby>かしたアイデアを<ruby>出<rt>だ</rt></ruby>せると<ruby>自負<rt>じふ</rt></ruby>しています。」",
+    "id": 60
+  },
+  {
+    "category": "スキル・経験・知識",
+    "q": "<ruby>学校<rt>がっこう</rt></ruby>で<ruby>学<rt>まな</rt></ruby>んだことをどう<ruby>活<rt>い</rt></ruby>かせますか？",
+    "p": "<ruby>学<rt>まな</rt></ruby>んだ<ruby>専門知識<rt>せんもんちしき</rt></ruby>や<ruby>経験<rt>けいけん</rt></ruby>が、<ruby>実際<rt>じっさい</rt></ruby>の<ruby>業務<rt>ぎょうむ</rt></ruby>プロセスでどう<ruby>役立<rt>やくた</rt></ruby>つか<ruby>具体的<rt>ぐたいてき</rt></ruby>に<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "「<ruby>専門学校<rt>せんもんがっこう</rt></ruby>で<ruby>学<rt>まな</rt></ruby>んだマーケティングの<ruby>知識<rt>ちしき</rt></ruby>を<ruby>活<rt>い</rt></ruby>かし、<ruby>御社<rt>おんしゃ</rt></ruby>の<ruby>営業活動<rt>えいぎょうかつどう</rt></ruby>において、ただ<ruby>売<rt>う</rt></ruby>るだけでなく<ruby>市場<rt>しじょう</rt></ruby>のデータに<ruby>基<rt>もと</rt></ruby>づいた<ruby>論理的<rt>ろんりてき</rt></ruby>な<ruby>提案<rt>ていあん</rt></ruby>ができると<ruby>考<rt>かんが</rt></ruby>えています。」",
+    "id": 61
+  },
+  {
+    "category": "スキル・経験・知識",
+    "q": "これまで<ruby>取得<rt>しゅとく</rt></ruby>した<ruby>資格<rt>しかく</rt></ruby>は<ruby>仕事<rt>しごと</rt></ruby>にどう<ruby>役立<rt>やくた</rt></ruby>ちますか？",
+    "p": "<ruby>資格<rt>しかく</rt></ruby>の<ruby>知識<rt>ちしき</rt></ruby>だけでなく、<ruby>資格<rt>しかく</rt></ruby>を<ruby>取<rt>と</rt></ruby>るための<ruby>努力<rt>どりょく</rt></ruby>や<ruby>学習<rt>がくしゅう</rt></ruby><ruby>習慣<rt>しゅうかん</rt></ruby>もアピールすること。",
+    "e": "「<ruby>取得<rt>しゅとく</rt></ruby>した〇〇<ruby>検定<rt>けんてい</rt></ruby>の<ruby>知識<rt>ちしき</rt></ruby>は<ruby>業務<rt>ぎょうむ</rt></ruby>に<ruby>直結<rt>ちょっけつ</rt></ruby>します。また、<ruby>資格<rt>しかく</rt></ruby><ruby>取得<rt>しゅとく</rt></ruby>に<ruby>向<rt>む</rt></ruby>けて<ruby>毎日<rt>まいにち</rt></ruby>コツコツ<ruby>勉強<rt>べんきょう</rt></ruby>した<ruby>継続<rt>けいぞく</rt></ruby><ruby>力<rt>ちから</rt></ruby>は、<ruby>入社後<rt>にゅうしゃご</rt></ruby>の<ruby>新<rt>あたら</rt></ruby>しい<ruby>業務<rt>ぎょうむ</rt></ruby>を<ruby>覚<rt>おぼ</rt></ruby>える<ruby>際<rt>さい</rt></ruby>にも<ruby>活<rt>い</rt></ruby>かせます。」",
+    "id": 62
+  },
+  {
+    "category": "スキル・経験・知識",
+    "q": "<ruby>今一番<rt>いまいちばん</rt></ruby><ruby>学<rt>まな</rt></ruby>びたいスキルは<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>現状<rt>げんじょう</rt></ruby>に<ruby>満足<rt>まんぞく</rt></ruby>せず、さらに<ruby>自己<rt>じこ</rt></ruby><ruby>研鑽<rt>けんさん</rt></ruby>する<ruby>意欲<rt>いよく</rt></ruby>（<ruby>成長<rt>せいちょう</rt></ruby><ruby>意欲<rt>いよく</rt></ruby>）があることを<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「データ<ruby>分析<rt>ぶんせき</rt></ruby>のスキルです。これからは<ruby>経験<rt>けいけん</rt></ruby>だけでなく、データに<ruby>基<rt>もと</rt></ruby>づいて<ruby>顧客<rt>こきゃく</rt></ruby>のニーズを<ruby>正確<rt>せいかく</rt></ruby>に<ruby>把握<rt>はあく</rt></ruby>する<ruby>力<rt>ちから</rt></ruby>がビジネスに<ruby>不可欠<rt>ふかけつ</rt></ruby>だと<ruby>感<rt>かん</rt></ruby>じているからです。」",
+    "id": 63
+  },
+  {
+    "category": "スキル・経験・知識",
+    "q": "ITツールやパソコンはどのくらい<ruby>使<rt>つか</rt></ruby>えますか？",
+    "p": "<ruby>具体的<rt>ぐたいてき</rt></ruby>に<ruby>何<rt>なん</rt></ruby>のソフトがどのレベルで<ruby>使<rt>つか</rt></ruby>えるか（Excelの<ruby>関数<rt>かんすう</rt></ruby>など）を<ruby>明確<rt>めいかく</rt></ruby>にすること。",
+    "e": "「WordやPowerPointでの<ruby>資料作成<rt>しりょうさくせい</rt></ruby>はもちろん、ExcelではVLOOKUP<ruby>関数<rt>かんすう</rt></ruby>やピボットテーブルを<ruby>使<rt>つか</rt></ruby>ったデータ<ruby>集計<rt>しゅうけい</rt></ruby>が<ruby>可能<rt>かのう</rt></ruby>です。」",
+    "id": 64
+  },
+  {
+    "category": "スキル・経験・知識",
+    "q": "<ruby>母国語<rt>ぼこくご</rt></ruby>と<ruby>日本語以外<rt>にほんごいがい</rt></ruby>にできる<ruby>言語<rt>げんご</rt></ruby>はありますか？",
+    "p": "<ruby>語学力<rt>ごがくりょく</rt></ruby>は<ruby>大<rt>おお</rt></ruby>きな<ruby>武器<rt>ぶき</rt></ruby>。レベル（<ruby>日常会話<rt>にちじょうかいわ</rt></ruby>、ビジネス<ruby>等<rt>など</rt></ruby>）を<ruby>添<rt>そ</rt></ruby>えて<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "「はい、<ruby>英語<rt>えいご</rt></ruby>がビジネスレベルで<ruby>可能<rt>かのう</rt></ruby>です。TOEICは〇〇<ruby>点<rt>てん</rt></ruby>で、<ruby>留学中<rt>りゅうがくちゅう</rt></ruby>の<ruby>授業<rt>じゅぎょう</rt></ruby>はすべて<ruby>英語<rt>えいご</rt></ruby>で<ruby>受<rt>う</rt></ruby>けていたため、<ruby>英語<rt>えいご</rt></ruby>での<ruby>会議<rt>かいぎ</rt></ruby>やメール<ruby>対応<rt>たいおう</rt></ruby>も<ruby>問題<rt>もんだい</rt></ruby>ありません。」",
+    "id": 65
+  },
+  {
+    "category": "スキル・経験・知識",
+    "q": "<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めるとき、どのような<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>使<rt>つか</rt></ruby>いますか？",
+    "p": "ネットだけでなく、<ruby>本<rt>ほん</rt></ruby>や<ruby>人<rt>ひと</rt></ruby>から<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>聞<rt>き</rt></ruby>くなど、<ruby>複数<rt>ふくすう</rt></ruby>の<ruby>手段<rt>しゅだん</rt></ruby>を<ruby>持<rt>も</rt></ruby>っていることを<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「インターネットでの<ruby>検索<rt>けんさく</rt></ruby>に<ruby>加<rt>くわ</rt></ruby>えて、<ruby>信頼<rt>しんらい</rt></ruby>できる<ruby>専門書<rt>せんもんしょ</rt></ruby>を<ruby>読<rt>よ</rt></ruby>んだり、<ruby>実際<rt>じっさい</rt></ruby>にその<ruby>分野<rt>ぶんや</rt></ruby>に<ruby>詳<rt>くわ</rt></ruby>しい<ruby>人<rt>ひと</rt></ruby>に<ruby>直接<rt>ちょくせつ</rt></ruby><ruby>話<rt>はなし</rt></ruby>を聞きに<ruby>行<rt>い</rt></ruby>ったりして、<ruby>多角的<rt>たかくてき</rt></ruby>に<ruby>情報<rt>じょうほう</rt></ruby>を<ruby>集<rt>あつ</rt></ruby>めます。」",
+    "id": 66
+  },
+  {
+    "category": "スキル・経験・知識",
+    "q": "<ruby>最近<rt>さいきん</rt></ruby><ruby>気<rt>き</rt></ruby>になるニュースは<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "エンタメではなく、<ruby>経済<rt>けいざい</rt></ruby>や<ruby>応募<rt>おうぼ</rt></ruby><ruby>業界<rt>ぎょうかい</rt></ruby>に<ruby>関<rt>かん</rt></ruby>するニュースを<ruby>選<rt>えら</rt></ruby>び、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>意見<rt>いけん</rt></ruby>を<ruby>添<rt>そ</rt></ruby>えること。",
+    "e": "「〇〇<ruby>国<rt>くに</rt></ruby>での<ruby>円安<rt>えんやす</rt></ruby>の<ruby>影響<rt>えいきょう</rt></ruby>に<ruby>関<rt>かん</rt></ruby>するニュースです。<ruby>御社<rt>おんしゃ</rt></ruby>の<ruby>海外<rt>かいがい</rt></ruby><ruby>輸出<rt>ゆしゅつ</rt></ruby><ruby>事業<rt>じぎょう</rt></ruby>にも<ruby>影響<rt>えいきょう</rt></ruby>があると<ruby>考<rt>かんが</rt></ruby>え、リスクをどうチャンスに<ruby>変<rt>か</rt></ruby>えるかについて<ruby>興味深<rt>きょうみぶか</rt></ruby>く<ruby>見<rt>み</rt></ruby>ています。」",
+    "id": 67
+  },
+  {
+    "category": "スキル・経験・知識",
+    "q": "<ruby>最近<rt>さいきん</rt></ruby><ruby>読<rt>よ</rt></ruby>んだ<ruby>本<rt>ほん</rt></ruby>で<ruby>面白<rt>おもしろ</rt></ruby>かったものは<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "ビジネス<ruby>書<rt>かき</rt></ruby>や<ruby>自己啓発<rt>じこけいはつ</rt></ruby><ruby>本<rt>ほん</rt></ruby>などを<ruby>選<rt>えら</rt></ruby>び、<ruby>何<rt>なに</rt></ruby>を<ruby>感<rt>かん</rt></ruby>じてどう<ruby>行動<rt>こうどう</rt></ruby>に<ruby>移<rt>うつ</rt></ruby>したかを<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "「『〇〇』というビジネス<ruby>書<rt>かき</rt></ruby>です。<ruby>時間<rt>じかん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>の<ruby>重要性<rt>じゅうようせい</rt></ruby>が書かれており、<ruby>読<rt>よ</rt></ruby>んでからは<ruby>毎日<rt>まいにち</rt></ruby><ruby>寝<rt>ね</rt></ruby>る<ruby>前<rt>まえ</rt></ruby>に<ruby>翌日<rt>よくじつ</rt></ruby>のタスクリストを<ruby>作<rt>つく</rt></ruby>る<ruby>習慣<rt>しゅうかん</rt></ruby>を<ruby>始<rt>はじ</rt></ruby>めました。」",
+    "id": 68
+  },
+  {
+    "category": "スキル・経験・知識",
+    "q": "<ruby>日本<rt>にほん</rt></ruby>の<ruby>社会問題<rt>しゃかいもんだい</rt></ruby>についてどう<ruby>思<rt>おも</rt></ruby>いますか？",
+    "p": "<ruby>少子<rt>しょうし</rt></ruby><ruby>高齢化<rt>こうれいか</rt></ruby>など<ruby>日本<rt>にほん</rt></ruby>の<ruby>課題<rt>かだい</rt></ruby>を<ruby>理解<rt>りかい</rt></ruby>し、ビジネスの<ruby>視点<rt>してん</rt></ruby>でどう<ruby>捉<rt>とら</rt></ruby>えているかを<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "「<ruby>少子<rt>しょうし</rt></ruby><ruby>高齢化<rt>こうれいか</rt></ruby>による<ruby>人手不足<rt>ひとでぶそく</rt></ruby>が<ruby>深刻<rt>しんこく</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>います。しかし、だからこそITによる<ruby>自動化<rt>じどうか</rt></ruby>や、<ruby>外国人<rt>がいこくじん</rt></ruby><ruby>人材<rt>じんざい</rt></ruby>の<ruby>活躍<rt>かつやく</rt></ruby>など、<ruby>新<rt>あたら</rt></ruby>しいビジネスチャンスが<ruby>生<rt>う</rt></ruby>まれているとも<ruby>考<rt>かんが</rt></ruby>えます。」",
+    "id": 69
+  },
+  {
+    "category": "スキル・経験・知識",
+    "q": "<ruby>時間<rt>じかん</rt></ruby><ruby>管理<rt>かんり</rt></ruby>のコツは<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>納期<rt>のうき</rt></ruby>を<ruby>守<rt>まも</rt></ruby>ることは<ruby>仕事<rt>しごと</rt></ruby>の<ruby>基本<rt>きほん</rt></ruby>。<ruby>優先順位<rt>ゆうせんじゅんい</rt></ruby>づけなど、<ruby>具体的<rt>ぐたいてき</rt></ruby>な<ruby>方法<rt>ほうほう</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えること。",
+    "e": "「すべてのタスクをリストアップし、『<ruby>重要度<rt>じゅうようど</rt></ruby>』と『<ruby>緊急度<rt>きんきゅうど</rt></ruby>』で<ruby>優先順位<rt>ゆうせんじゅんい</rt></ruby>をつけることです。また、<ruby>予定<rt>よてい</rt></ruby>よりも<ruby>少<rt>すこ</rt></ruby>し<ruby>早<rt>はや</rt></ruby>めの<ruby>期限<rt>きげん</rt></ruby>を<ruby>自分<rt>じぶん</rt></ruby>に<ruby>設定<rt>せってい</rt></ruby>して<ruby>行動<rt>こうどう</rt></ruby>しています。」",
+    "id": 70
+  },
+  {
+    "category": "変化・適応力",
+    "q": "<ruby>急<rt>きゅう</rt></ruby>なスケジュール<ruby>変更<rt>へんこう</rt></ruby>があったらどうしますか？",
+    "p": "パニックにならず、<ruby>冷静<rt>れいせい</rt></ruby>に<ruby>状況<rt>じょうきょう</rt></ruby>を<ruby>把握<rt>はあく</rt></ruby>して<ruby>優先順位<rt>ゆうせんじゅんい</rt></ruby>を<ruby>組<rt>く</rt></ruby>み<ruby>直<rt>なお</rt></ruby>す<ruby>柔軟性<rt>じゅうなんせい</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「まずは<ruby>変更<rt>へんこう</rt></ruby>の<ruby>理由<rt>りゆう</rt></ruby>と<ruby>新<rt>あたら</rt></ruby>しい<ruby>期限<rt>きげん</rt></ruby>を<ruby>正確<rt>せいかく</rt></ruby>に<ruby>確認<rt>かくにん</rt></ruby>します。その<ruby>後<rt>のち</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>抱<rt>かか</rt></ruby>えているタスクの<ruby>優先順位<rt>ゆうせんじゅんい</rt></ruby>を<ruby>再調整<rt>さいちょうせい</rt></ruby>し、<ruby>必要<rt>ひつよう</rt></ruby>であれば<ruby>周囲<rt>しゅうい</rt></ruby>に<ruby>協力<rt>きょうりょく</rt></ruby>を<ruby>求<rt>もと</rt></ruby>めます。」",
+    "id": 71
+  },
+  {
+    "category": "変化・適応力",
+    "q": "<ruby>今<rt>いま</rt></ruby>までと<ruby>全<rt>まった</rt></ruby>く<ruby>違<rt>ちが</rt></ruby>う<ruby>環境<rt>かんきょう</rt></ruby>に<ruby>置<rt>お</rt></ruby>かれたらどう<ruby>適応<rt>てきおう</rt></ruby>しますか？",
+    "p": "<ruby>留学<rt>りゅうがく</rt></ruby>という「<ruby>全<rt>まった</rt></ruby>く<ruby>違<rt>ちが</rt></ruby>う<ruby>環境<rt>かんきょう</rt></ruby>」への<ruby>適応<rt>てきおう</rt></ruby><ruby>経験<rt>けいけん</rt></ruby>を<ruby>例<rt>れい</rt></ruby>に<ruby>出<rt>だ</rt></ruby>すと<ruby>説得力<rt>せっとくりょく</rt></ruby>がある。",
+    "e": "「<ruby>日本<rt>にほん</rt></ruby>への<ruby>留学<rt>りゅうがく</rt></ruby><ruby>時<rt>とき</rt></ruby>も<ruby>全<rt>まった</rt></ruby>く<ruby>違<rt>ちが</rt></ruby>う<ruby>環境<rt>かんきょう</rt></ruby>でしたが、<ruby>自分<rt>じぶん</rt></ruby>から<ruby>積極的<rt>せっきょくてき</rt></ruby>に<ruby>話<rt>はな</rt></ruby>しかけ、<ruby>現地<rt>げんち</rt></ruby>のルールを<ruby>学<rt>まな</rt></ruby>ぶことで<ruby>適応<rt>てきおう</rt></ruby>しました。<ruby>新<rt>あたら</rt></ruby>しい<ruby>環境<rt>かんきょう</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>が<ruby>成長<rt>せいちょう</rt></ruby>するチャンスだと<ruby>捉<rt>とら</rt></ruby>えています。」",
+    "id": 72
+  },
+  {
+    "category": "変化・適応力",
+    "q": "<ruby>自分<rt>じぶん</rt></ruby>が<ruby>間違<rt>まちが</rt></ruby>っていたと<ruby>気<rt>き</rt></ruby>づいたとき、どうしますか？",
+    "p": "<ruby>素直<rt>すなお</rt></ruby>に<ruby>非<rt>ひ</rt></ruby>を<ruby>認<rt>みと</rt></ruby>め、すぐに<ruby>軌道修正<rt>きどうしゅうせい</rt></ruby>できるプライドの<ruby>低<rt>ひく</rt></ruby>さと<ruby>誠実<rt>せいじつ</rt></ruby>さをアピールすること。",
+    "e": "「すぐに<ruby>自分<rt>じぶん</rt></ruby>の<ruby>間違<rt>まちが</rt></ruby>いを<ruby>認<rt>みと</rt></ruby>めて<ruby>関係者<rt>かんけいしゃ</rt></ruby>に<ruby>謝罪<rt>しゃざい</rt></ruby>し、<ruby>正<rt>ただ</rt></ruby>しい<ruby>方法<rt>ほうほう</rt></ruby>に<ruby>切<rt>き</rt></ruby>り<ruby>替<rt>か</rt></ruby>えます。<ruby>変<rt>へん</rt></ruby>なプライドを<ruby>持<rt>も</rt></ruby>たず、<ruby>会社<rt>かいしゃ</rt></ruby>の<ruby>利益<rt>りえき</rt></ruby>を<ruby>最優先<rt>さいゆうせん</rt></ruby>に<ruby>行動<rt>こうどう</rt></ruby>します。」",
+    "id": 73
+  },
+  {
+    "category": "変化・適応力",
+    "q": "ルールがない（<ruby>正解<rt>せいかい</rt></ruby>がない）<ruby>仕事<rt>しごと</rt></ruby>を<ruby>与<rt>あた</rt></ruby>えられたらどう<ruby>進<rt>すす</rt></ruby>めますか？",
+    "p": "<ruby>指示<rt>しじ</rt></ruby><ruby>待<rt>ま</rt></ruby>ちにならず、<ruby>自分<rt>じぶん</rt></ruby>で<ruby>考<rt>かんが</rt></ruby>え、<ruby>周囲<rt>しゅうい</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>しながら<ruby>進<rt>すす</rt></ruby>める「<ruby>主体性<rt>しゅたいせい</rt></ruby>」を<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「まずは<ruby>自分<rt>じぶん</rt></ruby>なりに<ruby>目的<rt>もくてき</rt></ruby>や<ruby>仮説<rt>かせつ</rt></ruby>を<ruby>立<rt>た</rt></ruby>てて、<ruby>大枠<rt>おおわく</rt></ruby>の<ruby>計画<rt>けいかく</rt></ruby>を<ruby>作<rt>つく</rt></ruby>ります。それを<ruby>持<rt>も</rt></ruby>って<ruby>上司<rt>じょうし</rt></ruby>や<ruby>先輩<rt>せんぱい</rt></ruby>に<ruby>相談<rt>そうだん</rt></ruby>し、フィードバックをもらいながら<ruby>少<rt>すこ</rt></ruby>しずつ<ruby>形<rt>かたち</rt></ruby>にしていきます。」",
+    "id": 74
+  },
+  {
+    "category": "変化・適応力",
+    "q": "<ruby>予期<rt>よき</rt></ruby>せぬトラブルが<ruby>起<rt>お</rt></ruby>きたときの<ruby>対応<rt>たいおう</rt></ruby>は？",
+    "p": "<ruby>焦<rt>あせ</rt></ruby>らず<ruby>事実確認<rt>じじつかくにん</rt></ruby>を<ruby>行<rt>おこな</rt></ruby>い、<ruby>一人<rt>ひとり</rt></ruby>で<ruby>抱<rt>かか</rt></ruby>え<ruby>込<rt>こ</rt></ruby>まずに<ruby>報告<rt>ほうこく</rt></ruby>する<ruby>姿勢<rt>しせい</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えること。",
+    "e": "「まずは<ruby>落<rt>お</rt></ruby>ち<ruby>着<rt>つ</rt></ruby>いて『<ruby>何<rt>なに</rt></ruby>が<ruby>起<rt>お</rt></ruby>きているか』<ruby>事実<rt>じじつ</rt></ruby>を<ruby>正確<rt>せいかく</rt></ruby>に<ruby>把握<rt>はあく</rt></ruby>し、すぐに<ruby>上司<rt>じょうし</rt></ruby>に<ruby>報告<rt>ほうこく</rt></ruby>します。その<ruby>後<rt>のち</rt></ruby>、<ruby>被害<rt>ひがい</rt></ruby>を<ruby>最小限<rt>さいしょうげん</rt></ruby>に<ruby>抑<rt>おさ</rt></ruby>えるための<ruby>最善策<rt>さいぜんさく</rt></ruby>を<ruby>考<rt>かんが</rt></ruby>えて<ruby>実行<rt>じっこう</rt></ruby>します。」",
+    "id": 75
+  },
+  {
+    "category": "変化・適応力",
+    "q": "<ruby>複数<rt>ふくすう</rt></ruby>のタスクを<ruby>同時<rt>どうじ</rt></ruby>にこなす<ruby>方法<rt>ほうほう</rt></ruby>は？",
+    "p": "マルチタスクの<ruby>処理能力<rt>しょりのうりょく</rt></ruby>。<ruby>整理整頓<rt>せいりせいとん</rt></ruby>や<ruby>計画性<rt>けいかくせい</rt></ruby>があることを<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「タスクを<ruby>細<rt>こま</rt></ruby>かいステップに<ruby>分解<rt>ぶんかい</rt></ruby>し、<ruby>一<rt>ひと</rt></ruby>つひとつの<ruby>所要時間<rt>しょようじかん</rt></ruby>を<ruby>計算<rt>けいさん</rt></ruby>してスケジュールに<ruby>組<rt>く</rt></ruby>み<ruby>込<rt>こ</rt></ruby>みます。<ruby>頭<rt>あたま</rt></ruby>の<ruby>中<rt>なか</rt></ruby>だけで<ruby>考<rt>かんが</rt></ruby>えず、すべて<ruby>可視化<rt>かしか</rt></ruby>することがコツです。」",
+    "id": 76
+  },
+  {
+    "category": "変化・適応力",
+    "q": "<ruby>自分<rt>じぶん</rt></ruby>のやり<ruby>方<rt>ほう</rt></ruby>が<ruby>通<rt>つう</rt></ruby>じなかった<ruby>経験<rt>けいけん</rt></ruby>はありますか？",
+    "p": "<ruby>失敗<rt>しっぱい</rt></ruby>から<ruby>柔軟<rt>じゅうなん</rt></ruby>にやり<ruby>方<rt>ほう</rt></ruby>を<ruby>変<rt>か</rt></ruby>える「<ruby>柔軟性<rt>じゅうなんせい</rt></ruby>（アンラーニング）」の<ruby>能力<rt>のうりょく</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「<ruby>日本<rt>にほん</rt></ruby>に<ruby>来<rt>き</rt></ruby>た<ruby>当初<rt>とうしょ</rt></ruby>、<ruby>母国<rt>ぼこく</rt></ruby>のやり<ruby>方<rt>ほう</rt></ruby>で<ruby>問題<rt>もんだい</rt></ruby>を<ruby>解決<rt>かいけつ</rt></ruby>しようとして<ruby>失敗<rt>しっぱい</rt></ruby>しました。それ<ruby>以降<rt>いこう</rt></ruby>、<ruby>自分<rt>じぶん</rt></ruby>のやり<ruby>方<rt>ほう</rt></ruby>に<ruby>固執<rt>こしつ</rt></ruby>せず、<ruby>日本<rt>にほん</rt></ruby>のやり<ruby>方<rt>ほう</rt></ruby>を<ruby>素直<rt>すなお</rt></ruby>に<ruby>学<rt>まな</rt></ruby>んで<ruby>取<rt>と</rt></ruby>り<ruby>入<rt>い</rt></ruby>れるようにしました。」",
+    "id": 77
+  },
+  {
+    "category": "変化・適応力",
+    "q": "<ruby>新<rt>あたら</rt></ruby>しいことを<ruby>学<rt>まな</rt></ruby>ぶとき、どのようなプロセスを<ruby>踏<rt>ふ</rt></ruby>みますか？",
+    "p": "インプットだけでなく、<ruby>実際<rt>じっさい</rt></ruby>にやってみる（アウトプット）<ruby>姿勢<rt>しせい</rt></ruby>をアピールすること。",
+    "e": "「まずは<ruby>本<rt>ほん</rt></ruby>やインターネットで<ruby>基礎知識<rt>きそちしき</rt></ruby>をインプットします。しかしそれ<ruby>以上<rt>いじょう</rt></ruby>に、<ruby>実際<rt>じっさい</rt></ruby>に<ruby>手<rt>て</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かしたり、<ruby>知<rt>し</rt></ruby>っている<ruby>人<rt>ひと</rt></ruby>に<ruby>質問<rt>しつもん</rt></ruby>したりして『<ruby>実践<rt>じっせん</rt></ruby>』を<ruby>通<rt>つう</rt></ruby>じて<ruby>早<rt>はや</rt></ruby>く<ruby>学<rt>まな</rt></ruby>ぶようにしています。」",
+    "id": 78
+  },
+  {
+    "category": "変化・適応力",
+    "q": "プレッシャーを<ruby>感<rt>かん</rt></ruby>じる<ruby>状況<rt>じょうきょう</rt></ruby>でのパフォーマンスはどうですか？",
+    "p": "プレッシャーをネガティブに<ruby>捉<rt>とら</rt></ruby>えず、<ruby>力<rt>ちから</rt></ruby>に<ruby>変<rt>か</rt></ruby>えられるメンタルの<ruby>強<rt>つよ</rt></ruby>さを<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「<ruby>適度<rt>てきど</rt></ruby>なプレッシャーがある<ruby>方<rt>ほう</rt></ruby>が、<ruby>集中力<rt>しゅうちゅうりょく</rt></ruby>が<ruby>高<rt>たか</rt></ruby>まり<ruby>良<rt>よ</rt></ruby>いパフォーマンスを<ruby>発揮<rt>はっき</rt></ruby>できます。<ruby>重要<rt>じゅうよう</rt></ruby>な<ruby>発表<rt>はっぴょう</rt></ruby>の<ruby>前<rt>まえ</rt></ruby>などは、<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>徹底<rt>てってい</rt></ruby>することで<ruby>不安<rt>ふあん</rt></ruby>を<ruby>自信<rt>じしん</rt></ruby>に<ruby>変<rt>か</rt></ruby>えています。」",
+    "id": 79
+  },
+  {
+    "category": "変化・適応力",
+    "q": "アウェイな<ruby>環境<rt>かんきょう</rt></ruby>（<ruby>周<rt>まわ</rt></ruby>りが<ruby>知<rt>し</rt></ruby>らない<ruby>人<rt>ひと</rt></ruby>ばかり<ruby>等<rt>など</rt></ruby>）で<ruby>結果<rt>けっか</rt></ruby>を<ruby>出<rt>だ</rt></ruby>した<ruby>経験<rt>けいけん</rt></ruby>は？",
+    "p": "<ruby>外国人<rt>がいこくじん</rt></ruby>として<ruby>日本<rt>にほん</rt></ruby>の<ruby>組織<rt>そしき</rt></ruby>に<ruby>入<rt>い</rt></ruby>る<ruby>覚悟<rt>かくご</rt></ruby>と、そこで<ruby>関係性<rt>かんけいせい</rt></ruby>を<ruby>築<rt>きづ</rt></ruby>く<ruby>能力<rt>のうりょく</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「<ruby>日本人<rt>にほんじん</rt></ruby>のみのアルバイトに<ruby>一人<rt>ひとり</rt></ruby>で<ruby>参加<rt>さんか</rt></ruby>した<ruby>際<rt>さい</rt></ruby>、<ruby>最初<rt>さいしょ</rt></ruby>は<ruby>孤立<rt>こりつ</rt></ruby>していましたが、<ruby>誰<rt>だれ</rt></ruby>よりも<ruby>早<rt>はや</rt></ruby>く<ruby>準備<rt>じゅんび</rt></ruby>を<ruby>手伝<rt>てつだ</rt></ruby>うなど<ruby>行動<rt>こうどう</rt></ruby>で<ruby>示<rt>しめ</rt></ruby>すことで<ruby>信頼<rt>しんらい</rt></ruby>を<ruby>得<rt>え</rt></ruby>て、<ruby>最終的<rt>さいしゅうてき</rt></ruby>にリーダーを<ruby>任<rt>まか</rt></ruby>されました。」",
+    "id": 80
+  },
+  {
+    "category": "会社への貢献・熱意",
+    "q": "<ruby>入社<rt>にゅうしゃ</rt></ruby>1<ruby>年目<rt>ねんめ</rt></ruby>に<ruby>達成<rt>たっせい</rt></ruby>したい<ruby>目標<rt>もくひょう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>現実的<rt>げんじつてき</rt></ruby>でありながら、<ruby>意欲的<rt>いよくてき</rt></ruby>な<ruby>目標<rt>もくひょう</rt></ruby><ruby>設定<rt>せってい</rt></ruby>ができているかを<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「1<ruby>年目<rt>ねんめ</rt></ruby>は『<ruby>仕事<rt>しごと</rt></ruby>の<ruby>基礎<rt>きそ</rt></ruby>を<ruby>完璧<rt>かんぺき</rt></ruby>にすること』と『<ruby>部署内<rt>ぶしょない</rt></ruby>の<ruby>全員<rt>ぜんいん</rt></ruby>と<ruby>信頼関係<rt>しんらいかんけい</rt></ruby>を<ruby>築<rt>きづ</rt></ruby>くこと』が<ruby>目標<rt>もくひょう</rt></ruby>です。<ruby>指示<rt>しじ</rt></ruby>された<ruby>仕事<rt>しごと</rt></ruby>をミスなくこなし、まずは<ruby>信頼<rt>しんらい</rt></ruby>される<ruby>人材<rt>じんざい</rt></ruby>になります。」",
+    "id": 81
+  },
+  {
+    "category": "会社への貢献・熱意",
+    "q": "<ruby>当社<rt>とうしゃ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>くうえでの「<ruby>覚悟<rt>かくご</rt></ruby>」を<ruby>教<rt>おし</rt></ruby>えてください。",
+    "p": "<ruby>途中<rt>とちゅう</rt></ruby>で<ruby>投<rt>な</rt></ruby>げ<ruby>出<rt>だ</rt></ruby>さない、<ruby>厳<rt>いかめ</rt></ruby>しい<ruby>環境<rt>かんきょう</rt></ruby>でもやり<ruby>抜<rt>ぬ</rt></ruby>くという<ruby>強<rt>つよ</rt></ruby>い<ruby>意志<rt>いし</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えること。",
+    "e": "「<ruby>言語<rt>げんご</rt></ruby>や<ruby>文化<rt>ぶんか</rt></ruby>の<ruby>壁<rt>かべ</rt></ruby>にぶつかることもあると<ruby>思<rt>おも</rt></ruby>いますが、<ruby>決<rt>けっ</rt></ruby>して<ruby>逃<rt>に</rt></ruby>げません。<ruby>日本<rt>にほん</rt></ruby>で<ruby>長<rt>なが</rt></ruby>くキャリアを築き、<ruby>御社<rt>おんしゃ</rt></ruby>にとって<ruby>無<rt>な</rt></ruby>くてはならない<ruby>人材<rt>じんざい</rt></ruby>になるまで<ruby>努力<rt>どりょく</rt></ruby>し<ruby>続<rt>つづ</rt></ruby>ける<ruby>覚悟<rt>かくご</rt></ruby>です。」",
+    "id": 82
+  },
+  {
+    "category": "会社への貢献・熱意",
+    "q": "<ruby>当社<rt>とうしゃ</rt></ruby>に<ruby>足<rt>た</rt></ruby>りないものは<ruby>何<rt>なん</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>いますか？",
+    "p": "<ruby>批判<rt>ひはん</rt></ruby>ではなく、<ruby>企業<rt>きぎょう</rt></ruby><ruby>研究<rt>けんきゅう</rt></ruby>に<ruby>基<rt>もと</rt></ruby>づく<ruby>客観的<rt>きゃっかんてき</rt></ruby>な<ruby>分析<rt>ぶんせき</rt></ruby>と、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>貢献<rt>こうけん</rt></ruby><ruby>領域<rt>りょういき</rt></ruby>を<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "「<ruby>素晴<rt>すば</rt></ruby>らしい<ruby>製品<rt>せいひん</rt></ruby>がある<ruby>一方<rt>いっぽう</rt></ruby>で、それを<ruby>海外<rt>かいがい</rt></ruby>の<ruby>若年層<rt>じゃくねんそう</rt></ruby>に<ruby>届<rt>とど</rt></ruby>けるSNSマーケティングが<ruby>少<rt>すこ</rt></ruby>し<ruby>弱<rt>よわ</rt></ruby>いと<ruby>感<rt>かん</rt></ruby>じました。<ruby>私<rt>わたし</rt></ruby>のデジタルネイティブとしての<ruby>感覚<rt>かんかく</rt></ruby>で、そこを<ruby>補<rt>おぎな</rt></ruby>いたいです。」",
+    "id": 83
+  },
+  {
+    "category": "会社への貢献・熱意",
+    "q": "<ruby>外国籍<rt>がいこくせき</rt></ruby><ruby>社員<rt>しゃいん</rt></ruby>として、どのような<ruby>貢献<rt>こうけん</rt></ruby>ができますか？",
+    "p": "ダイバーシティ（<ruby>多様性<rt>たようせい</rt></ruby>）の<ruby>観点<rt>かんてん</rt></ruby>から、<ruby>日本人<rt>にほんじん</rt></ruby>にはない<ruby>視点<rt>してん</rt></ruby>や<ruby>強<rt>つよ</rt></ruby>みをアピールすること。",
+    "e": "「〇〇<ruby>語<rt>かた</rt></ruby>という<ruby>言語<rt>げんご</rt></ruby>スキルだけでなく、<ruby>母国<rt>ぼこく</rt></ruby>の<ruby>商習慣<rt>しょうしゅうかん</rt></ruby>やトレンドの<ruby>知識<rt>ちしき</rt></ruby>を<ruby>活<rt>い</rt></ruby>かして、<ruby>現地<rt>げんち</rt></ruby>のニーズに<ruby>的確<rt>てきかく</rt></ruby>に<ruby>応<rt>こた</rt></ruby>える<ruby>製品<rt>せいひん</rt></ruby><ruby>展開<rt>てんかい</rt></ruby>のアドバイスができます。」",
+    "id": 84
+  },
+  {
+    "category": "会社への貢献・熱意",
+    "q": "<ruby>当社<rt>とうしゃ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>くメリット・デメリットは<ruby>何<rt>なん</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>いますか？",
+    "p": "<ruby>企業<rt>きぎょう</rt></ruby>を<ruby>客観視<rt>きゃっかんし</rt></ruby>できているか。デメリットも<ruby>成長<rt>せいちょう</rt></ruby>の<ruby>機会<rt>きかい</rt></ruby>として<ruby>捉<rt>とら</rt></ruby>えていることを<ruby>示<rt>しめ</rt></ruby>す。",
+    "e": "「メリットは<ruby>若手<rt>わかて</rt></ruby>から<ruby>大<rt>おお</rt></ruby>きなプロジェクトに<ruby>挑戦<rt>ちょうせん</rt></ruby>できることです。デメリットは、その<ruby>分<rt>ふん</rt></ruby><ruby>責任<rt>せきにん</rt></ruby>が<ruby>重<rt>おも</rt></ruby>くプレッシャーがかかることですが、それは<ruby>私<rt>わたし</rt></ruby>が<ruby>早<rt>はや</rt></ruby>く<ruby>成長<rt>せいちょう</rt></ruby>できる<ruby>環境<rt>かんきょう</rt></ruby>だと<ruby>考<rt>かんが</rt></ruby>えています。」",
+    "id": 85
+  },
+  {
+    "category": "会社への貢献・熱意",
+    "q": "<ruby>周<rt>まわ</rt></ruby>りを<ruby>巻<rt>ま</rt></ruby>き<ruby>込<rt>こ</rt></ruby>んで<ruby>仕事<rt>しごと</rt></ruby>をした<ruby>経験<rt>けいけん</rt></ruby>はありますか？",
+    "p": "<ruby>他者<rt>たしゃ</rt></ruby>を<ruby>動<rt>うご</rt></ruby>かす<ruby>影響力<rt>えいきょうりょく</rt></ruby>や、チームを<ruby>牽引<rt>けんいん</rt></ruby>するコミュニケーション<ruby>能力<rt>のうりょく</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「<ruby>学校<rt>がっこう</rt></ruby>でのイベント<ruby>企画<rt>きかく</rt></ruby>で、<ruby>他<rt>ほか</rt></ruby>のクラスにも<ruby>声<rt>こえ</rt></ruby>をかけて<ruby>合同<rt>ごうどう</rt></ruby>イベントを<ruby>実施<rt>じっし</rt></ruby>しました。メリットを<ruby>論理的<rt>ろんりてき</rt></ruby>に<ruby>説明<rt>せつめい</rt></ruby>し、みんなのモチベーションを<ruby>上<rt>あ</rt></ruby>げることで<ruby>実現<rt>じつげん</rt></ruby>できました。」",
+    "id": 86
+  },
+  {
+    "category": "会社への貢献・熱意",
+    "q": "<ruby>最後<rt>さいご</rt></ruby>までやり<ruby>遂<rt>と</rt></ruby>げたと<ruby>言<rt>い</rt></ruby>える<ruby>経験<rt>けいけん</rt></ruby>はありますか？",
+    "p": "グリット（やり<ruby>抜<rt>ぬ</rt></ruby>く<ruby>力<rt>ちから</rt></ruby>）。<ruby>困難<rt>こんなん</rt></ruby>があっても<ruby>諦<rt>あきら</rt></ruby>めなかったエピソードを<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "「<ruby>現在<rt>げんざい</rt></ruby>、<ruby>在学<rt>ざいがく</rt></ruby>している<ruby>学校<rt>がっこう</rt></ruby>の<ruby>入学試験<rt>にゅうがくしけん</rt></ruby>です。<ruby>周囲<rt>しゅうい</rt></ruby>から<ruby>難<rt>むずか</rt></ruby>しいと<ruby>言<rt>い</rt></ruby>われましたが、1<ruby>日<rt>にち</rt></ruby>10<ruby>時間<rt>じかん</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>を1<ruby>年間<rt>ねんかん</rt></ruby><ruby>続<rt>つづ</rt></ruby>け、<ruby>無事<rt>ぶじ</rt></ruby>に<ruby>合格<rt>ごうかく</rt></ruby>を<ruby>勝<rt>か</rt></ruby>ち<ruby>取<rt>と</rt></ruby>ることができました。」",
+    "id": 87
+  },
+  {
+    "category": "会社への貢献・熱意",
+    "q": "<ruby>厳<rt>いかめ</rt></ruby>しいノルマがあった<ruby>場合<rt>ばあい</rt></ruby>、どう<ruby>向<rt>む</rt></ruby>き<ruby>合<rt>あ</rt></ruby>いますか？",
+    "p": "<ruby>高<rt>たか</rt></ruby>い<ruby>目標<rt>もくひょう</rt></ruby>に<ruby>対<rt>たい</rt></ruby>して<ruby>前向<rt>まえむ</rt></ruby>きに、<ruby>計画的<rt>けいかくてき</rt></ruby>に<ruby>挑戦<rt>ちょうせん</rt></ruby>する<ruby>姿勢<rt>しせい</rt></ruby>を<ruby>示<rt>しめ</rt></ruby>すこと。",
+    "e": "「<ruby>厳<rt>いかめ</rt></ruby>しいノルマは<ruby>自分<rt>じぶん</rt></ruby>の<ruby>能力<rt>のうりょく</rt></ruby>を<ruby>試<rt>ため</rt></ruby>すチャンスと<ruby>捉<rt>とら</rt></ruby>えます。<ruby>月間<rt>げっかん</rt></ruby>のノルマを<ruby>週<rt>しゅう</rt></ruby>ごと、<ruby>日<rt>にち</rt></ruby>ごとの<ruby>行動<rt>こうどう</rt></ruby><ruby>目標<rt>もくひょう</rt></ruby>に<ruby>落<rt>お</rt></ruby>とし<ruby>込<rt>こ</rt></ruby>み、<ruby>毎日<rt>まいにち</rt></ruby>コツコツと<ruby>達成<rt>たっせい</rt></ruby>していくことでクリアを<ruby>目指<rt>めざ</rt></ruby>します。」",
+    "id": 88
+  },
+  {
+    "category": "会社への貢献・熱意",
+    "q": "お<ruby>客様<rt>きゃくさま</rt></ruby>のニーズをどうやって<ruby>引<rt>ひ</rt></ruby>き<ruby>出<rt>だ</rt></ruby>しますか？",
+    "p": "<ruby>自分<rt>じぶん</rt></ruby>が<ruby>話<rt>はな</rt></ruby>すだけでなく、<ruby>相手<rt>あいて</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>を「<ruby>聞<rt>き</rt></ruby>く<ruby>力<rt>ちから</rt></ruby>（<ruby>傾聴<rt>けいちょう</rt></ruby><ruby>力<rt>ちから</rt></ruby>）」をアピールすること。",
+    "e": "「まずは<ruby>自分<rt>じぶん</rt></ruby>が<ruby>話<rt>はな</rt></ruby>すより、お<ruby>客様<rt>きゃくさま</rt></ruby>の<ruby>話<rt>はなし</rt></ruby>をよく<ruby>聞<rt>き</rt></ruby>くことを<ruby>徹底<rt>てってい</rt></ruby>します。ちょっとした<ruby>雑談<rt>ざつだん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>から、お<ruby>客様<rt>きゃくさま</rt></ruby><ruby>自身<rt>じしん</rt></ruby>も<ruby>気<rt>き</rt></ruby>づいていない<ruby>潜在的<rt>せんざいてき</rt></ruby>な<ruby>悩<rt>なや</rt></ruby>みや<ruby>要望<rt>ようぼう</rt></ruby>を<ruby>見<rt>み</rt></ruby>つけ<ruby>出<rt>だ</rt></ruby>します。」",
+    "id": 89
+  },
+  {
+    "category": "会社への貢献・熱意",
+    "q": "<ruby>御社<rt>おんしゃ</rt></ruby>の〇〇という<ruby>理念<rt>りねん</rt></ruby>についてどう<ruby>思<rt>おも</rt></ruby>いますか？",
+    "p": "<ruby>企業<rt>きぎょう</rt></ruby>の<ruby>価値観<rt>かちかん</rt></ruby>に<ruby>深<rt>ふか</rt></ruby>く<ruby>共感<rt>きょうかん</rt></ruby>しており、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>考<rt>かんが</rt></ruby>え<ruby>方<rt>かた</rt></ruby>と<ruby>一致<rt>いっち</rt></ruby>していることを<ruby>伝<rt>つた</rt></ruby>えること。",
+    "e": "「『<ruby>社会<rt>しゃかい</rt></ruby>に<ruby>貢献<rt>こうけん</rt></ruby>し<ruby>続<rt>つづ</rt></ruby>ける』という<ruby>理念<rt>りねん</rt></ruby>に<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>共感<rt>きょうかん</rt></ruby>しています。<ruby>私自身<rt>わたしじしん</rt></ruby>も、<ruby>仕事<rt>しごと</rt></ruby>を<ruby>通<rt>つう</rt></ruby>じてただ<ruby>利益<rt>りえき</rt></ruby>を<ruby>上<rt>あ</rt></ruby>げるだけでなく、<ruby>人々<rt>ひとびと</rt></ruby>の<ruby>生活<rt>せいかつ</rt></ruby>を<ruby>豊<rt>ゆた</rt></ruby>かにしたいという<ruby>想<rt>おも</rt></ruby>いがあるからです。」",
+    "id": 90
+  },
+  {
+    "category": "深掘り・イレギュラー質問",
+    "q": "<ruby>今<rt>いま</rt></ruby>までの<ruby>人生<rt>じんせい</rt></ruby>で<ruby>一番<rt>いちばん</rt></ruby>の<ruby>決断<rt>けつだん</rt></ruby>は<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "あなたの<ruby>価値観<rt>かちかん</rt></ruby>や、リスクを<ruby>取<rt>と</rt></ruby>って<ruby>挑戦<rt>ちょうせん</rt></ruby>する<ruby>姿勢<rt>しせい</rt></ruby>がわかるエピソードを<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "「<ruby>日本<rt>にほん</rt></ruby>への<ruby>留学<rt>りゅうがく</rt></ruby>を<ruby>決断<rt>けつだん</rt></ruby>したことです。<ruby>親元<rt>おやもと</rt></ruby>を<ruby>離<rt>はな</rt></ruby>れ、<ruby>全<rt>まった</rt></ruby>く<ruby>違<rt>ちが</rt></ruby>う<ruby>言語<rt>げんご</rt></ruby>の<ruby>国<rt>くに</rt></ruby>でゼロからスタートするのは<ruby>不安<rt>ふあん</rt></ruby>でしたが、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>視野<rt>しや</rt></ruby>を<ruby>広<rt>ひろ</rt></ruby>げるために<ruby>最大<rt>さいだい</rt></ruby>の<ruby>挑戦<rt>ちょうせん</rt></ruby>をしました。」",
+    "id": 91
+  },
+  {
+    "category": "深掘り・イレギュラー質問",
+    "q": "もし<ruby>宝<rt>たから</rt></ruby>くじが<ruby>当<rt>あ</rt></ruby>たったらどうしますか？",
+    "p": "お<ruby>金<rt>かね</rt></ruby>があっても<ruby>働<rt>はたら</rt></ruby>く<ruby>意欲<rt>いよく</rt></ruby>があるか、どのような<ruby>価値観<rt>かちかん</rt></ruby>を<ruby>持<rt>も</rt></ruby>っているかを<ruby>見<rt>み</rt></ruby>る<ruby>質問<rt>しつもん</rt></ruby>。",
+    "e": "「<ruby>半分<rt>はんぶん</rt></ruby>は<ruby>親<rt>おや</rt></ruby>に<ruby>家<rt>いえ</rt></ruby>を<ruby>買<rt>か</rt></ruby>うなど<ruby>恩返<rt>おんがえ</rt></ruby>しに<ruby>使<rt>つか</rt></ruby>い、<ruby>残<rt>のこ</rt></ruby>りは<ruby>貯金<rt>ちょきん</rt></ruby>します。ですが、<ruby>仕事<rt>しごと</rt></ruby>は<ruby>今<rt>いま</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>があるので<ruby>辞<rt>や</rt></ruby>めません。むしろお<ruby>金<rt>かね</rt></ruby>の<ruby>不安<rt>ふあん</rt></ruby>なく、より<ruby>大胆<rt>だいたん</rt></ruby>に<ruby>仕事<rt>しごと</rt></ruby>に<ruby>挑戦<rt>ちょうせん</rt></ruby>したいと<ruby>思<rt>おも</rt></ruby>います。」",
+    "id": 92
+  },
+  {
+    "category": "深掘り・イレギュラー質問",
+    "q": "<ruby>明日<rt>あした</rt></ruby><ruby>地球<rt>ちきゅう</rt></ruby>が<ruby>終<rt>お</rt></ruby>わるとしたら<ruby>何<rt>なに</rt></ruby>をしますか？",
+    "p": "あなたが<ruby>一番大切<rt>いちばんたいせつ</rt></ruby>にしているもの（<ruby>家族<rt>かぞく</rt></ruby>、<ruby>友人<rt>ゆうじん</rt></ruby>など）が<ruby>何<rt>なに</rt></ruby>かを<ruby>知<rt>し</rt></ruby>るための<ruby>質問<rt>しつもん</rt></ruby>。",
+    "e": "「<ruby>家族<rt>かぞく</rt></ruby>や<ruby>今<rt>いま</rt></ruby>までお<ruby>世話<rt>せわ</rt></ruby>になった<ruby>友人<rt>ゆうじん</rt></ruby>たちに<ruby>連絡<rt>れんらく</rt></ruby>を<ruby>取<rt>と</rt></ruby>り、<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>気持<rt>きも</rt></ruby>ちを<ruby>伝<rt>つた</rt></ruby>えます。<ruby>最後<rt>さいご</rt></ruby>は<ruby>自分<rt>じぶん</rt></ruby>の<ruby>一番大切<rt>いちばんたいせつ</rt></ruby>な<ruby>人<rt>ひと</rt></ruby>たちと<ruby>美味<rt>おい</rt></ruby>しいご<ruby>飯<rt>めし</rt></ruby>を<ruby>食<rt>た</rt></ruby>べて<ruby>過<rt>す</rt></ruby>ごしたいです。」",
+    "id": 93
+  },
+  {
+    "category": "深掘り・イレギュラー質問",
+    "q": "<ruby>過去<rt>かこ</rt></ruby>に<ruby>戻<rt>もど</rt></ruby>れるなら、いつに<ruby>戻<rt>もど</rt></ruby>りたいですか？",
+    "p": "<ruby>過去<rt>かこ</rt></ruby>の<ruby>失敗<rt>しっぱい</rt></ruby>をどう<ruby>捉<rt>とら</rt></ruby>えているか。または『<ruby>今<rt>いま</rt></ruby>が<ruby>一番<rt>いちばん</rt></ruby><ruby>良<rt>よ</rt></ruby>い』という<ruby>前向<rt>まえむ</rt></ruby>きさを<ruby>示<rt>しめ</rt></ruby>す。",
+    "e": "「<ruby>戻<rt>もど</rt></ruby>りたいとは<ruby>思<rt>おも</rt></ruby>いません。<ruby>過去<rt>かこ</rt></ruby>の<ruby>失敗<rt>しっぱい</rt></ruby>や<ruby>苦労<rt>くろう</rt></ruby>があったからこそ<ruby>今<rt>いま</rt></ruby>の<ruby>自分<rt>じぶん</rt></ruby>があるからです。これからも<ruby>前<rt>まえ</rt></ruby>を<ruby>向<rt>む</rt></ruby>いて<ruby>未来<rt>みらい</rt></ruby>を<ruby>切<rt>き</rt></ruby>り<ruby>拓<rt>たく</rt></ruby>いていきたいです。」",
+    "id": 94
+  },
+  {
+    "category": "深掘り・イレギュラー質問",
+    "q": "あなたの<ruby>座右<rt>ざゆう</rt></ruby>の<ruby>銘<rt>めい</rt></ruby>（<ruby>好<rt>す</rt></ruby>きな<ruby>言葉<rt>ことば</rt></ruby>）は<ruby>何<rt>なん</rt></ruby>ですか？",
+    "p": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>性格<rt>せいかく</rt></ruby>や<ruby>行動<rt>こうどう</rt></ruby><ruby>指針<rt>ししん</rt></ruby>を<ruby>表<rt>あらわ</rt></ruby>すポジティブな<ruby>言葉<rt>ことば</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶこと。",
+    "e": "「『<ruby>継続<rt>けいぞく</rt></ruby>は<ruby>力<rt>ちから</rt></ruby>なり』です。<ruby>語学<rt>ごがく</rt></ruby>の<ruby>勉強<rt>べんきょう</rt></ruby>も<ruby>初<rt>はじ</rt></ruby>めは<ruby>全<rt>まった</rt></ruby>くできませんでしたが、<ruby>毎日<rt>まいにち</rt></ruby><ruby>続<rt>つづ</rt></ruby>けることで<ruby>話<rt>はな</rt></ruby>せるようになりました。<ruby>仕事<rt>しごと</rt></ruby>でもコツコツ<ruby>努力<rt>どりょく</rt></ruby>を<ruby>続<rt>つづ</rt></ruby>けたいです。」",
+    "id": 95
+  },
+  {
+    "category": "深掘り・イレギュラー質問",
+    "q": "これまでで<ruby>一番<rt>いちばん</rt></ruby><ruby>感謝<rt>かん</rt></ruby>している<ruby>人<rt>ひと</rt></ruby>は<ruby>誰<rt>だれ</rt></ruby>ですか？",
+    "p": "<ruby>感謝<rt>かんしゃ</rt></ruby>の<ruby>心<rt>こころ</rt></ruby>を<ruby>持<rt>も</rt></ruby>っているか、<ruby>周囲<rt>しゅうい</rt></ruby>のサポートを<ruby>認識<rt>にんしき</rt></ruby>できているかを<ruby>示<rt>しめ</rt></ruby>す<ruby>質問<rt>しつもん</rt></ruby>。",
+    "e": "「<ruby>両親<rt>りょうしん</rt></ruby>です。<ruby>私<rt>わたし</rt></ruby>の<ruby>日本<rt>にほん</rt></ruby><ruby>留学<rt>りゅうがく</rt></ruby>という<ruby>決断<rt>けつだん</rt></ruby>を<ruby>応援<rt>おうえん</rt></ruby>し、<ruby>経済的<rt>けいざいてき</rt></ruby>にも<ruby>精神的<rt>せいしんてき</rt></ruby>にも<ruby>支<rt>ささ</rt></ruby>えてくれました。<ruby>立派<rt>りっぱ</rt></ruby>に<ruby>日本<rt>にほん</rt></ruby>で<ruby>就職<rt>しゅうしょく</rt></ruby>し、<ruby>恩返<rt>おんがえ</rt></ruby>しをすることが<ruby>私<rt>わたし</rt></ruby>の<ruby>目標<rt>もくひょう</rt></ruby>です。」",
+    "id": 96
+  },
+  {
+    "category": "深掘り・イレギュラー質問",
+    "q": "<ruby>自分<rt>じぶん</rt></ruby>の<ruby>嫌<rt>きら</rt></ruby>いなところはどこですか？",
+    "p": "<ruby>短所<rt>たんしょ</rt></ruby>を<ruby>客観視<rt>きゃっかんし</rt></ruby>し、それをどう<ruby>受<rt>う</rt></ruby>け<ruby>入<rt>い</rt></ruby>れたり<ruby>改善<rt>かいぜん</rt></ruby>しようとしているか<ruby>話<rt>はな</rt></ruby>すこと。",
+    "e": "「<ruby>優柔不断<rt>ゆうじゅうふだん</rt></ruby>で<ruby>決断<rt>けつだん</rt></ruby>に<ruby>時間<rt>じかん</rt></ruby>がかかるところです。しかし<ruby>最近<rt>さいきん</rt></ruby>は『<ruby>迷<rt>まよ</rt></ruby>ったらより<ruby>困難<rt>こんなん</rt></ruby>な<ruby>道<rt>みち</rt></ruby>を<ruby>選<rt>えら</rt></ruby>ぶ』というルールを<ruby>自分<rt>じぶん</rt></ruby>の<ruby>中<rt>なか</rt></ruby>に<ruby>作<rt>つく</rt></ruby>り、<ruby>早<rt>はや</rt></ruby>く<ruby>決断<rt>けつだん</rt></ruby>できるよう<ruby>改善<rt>かいぜん</rt></ruby>しています。」",
+    "id": 97
+  },
+  {
+    "category": "深掘り・イレギュラー質問",
+    "q": "<ruby>面接官<rt>めんせつかん</rt></ruby>の<ruby>私<rt>わたし</rt></ruby>に<ruby>何<rt>なに</rt></ruby>かアドバイスはありますか？",
+    "p": "イレギュラーな<ruby>質問<rt>しつもん</rt></ruby>への<ruby>対応<rt>たいおう</rt></ruby><ruby>力<rt>ちから</rt></ruby>。<ruby>失礼<rt>しつれい</rt></ruby>のない<ruby>範囲<rt>はんい</rt></ruby>で<ruby>機転<rt>きてん</rt></ruby>を<ruby>利<rt>き</rt></ruby>かせること。",
+    "e": "「アドバイスなど<ruby>恐<rt>おそ</rt></ruby>れ<ruby>多<rt>おー</rt></ruby>いですが、<ruby>本日<rt>ほんじつ</rt></ruby>の<ruby>面接<rt>めんせつ</rt></ruby>で<ruby>非常<rt>ひじょう</rt></ruby>に<ruby>話<rt>はな</rt></ruby>しやすい<ruby>雰囲気<rt>ふんいき</rt></ruby>を<ruby>作<rt>つく</rt></ruby>っていただき<ruby>感謝<rt>かん</rt></ruby>しております。ぜひこのままの<ruby>笑顔<rt>えがお</rt></ruby>で<ruby>他<rt>ほか</rt></ruby>の<ruby>学生<rt>がくせい</rt></ruby>さんにも<ruby>接<rt>せっ</rt></ruby>していただきたいです。」",
+    "id": 98
+  },
+  {
+    "category": "深掘り・イレギュラー質問",
+    "q": "もし<ruby>不採用<rt>ふさいよう</rt></ruby>になったら、<ruby>理由<rt>りゆう</rt></ruby>は<ruby>何<rt>なん</rt></ruby>だと<ruby>思<rt>おも</rt></ruby>いますか？",
+    "p": "<ruby>客観的<rt>きゃっかんてき</rt></ruby>に<ruby>自分<rt>じぶん</rt></ruby>の<ruby>不足<rt>ふそく</rt></ruby><ruby>部分<rt>ぶぶん</rt></ruby>を<ruby>分析<rt>ぶんせき</rt></ruby>できているかを<ruby>見<rt>み</rt></ruby>る<ruby>質問<rt>しつもん</rt></ruby>。<ruby>前向<rt>まえむ</rt></ruby>きに<ruby>答<rt>こた</rt></ruby>える。",
+    "e": "「<ruby>私<rt>わたし</rt></ruby>の<ruby>企業<rt>きぎょう</rt></ruby><ruby>理解<rt>りかい</rt></ruby>や、<ruby>自分<rt>じぶん</rt></ruby>の<ruby>熱意<rt>ねつい</rt></ruby>を<ruby>伝<rt>つた</rt></ruby>えるコミュニケーション<ruby>能力<rt>のうりょく</rt></ruby>がまだ<ruby>不足<rt>ふそく</rt></ruby>していたからだと<ruby>思<rt>おも</rt></ruby>います。その<ruby>場合<rt>ばあい</rt></ruby>は<ruby>真摯<rt>しんし</rt></ruby>に<ruby>受<rt>う</rt></ruby>け<ruby>止<rt>と</rt></ruby>め、さらに<ruby>自己<rt>じこ</rt></ruby><ruby>研鑽<rt>けんさん</rt></ruby>に<ruby>励<rt>はげ</rt></ruby>みます。」",
+    "id": 99
+  },
+  {
+    "category": "深掘り・イレギュラー質問",
+    "q": "<ruby>最後<rt>さいご</rt></ruby>に、<ruby>何<rt>なに</rt></ruby>か言い<ruby>残<rt>のこ</rt></ruby>したことはありますか？",
+    "p": "<ruby>最後<rt>さいご</rt></ruby>の<ruby>自己<rt>じこ</rt></ruby>PRのチャンス。<ruby>熱意<rt>ねつい</rt></ruby>をもう<ruby>一度<rt>いちど</rt></ruby>しっかり<ruby>伝<rt>つた</rt></ruby>えること。",
+    "e": "「<ruby>本日<rt>ほんじつ</rt></ruby>は<ruby>貴重<rt>きちょう</rt></ruby>なお<ruby>時間<rt>じかん</rt></ruby>をいただきありがとうございました。<ruby>御社<rt>おんしゃ</rt></ruby>で<ruby>働<rt>はたら</rt></ruby>きたいという<ruby>思<rt>おも</rt></ruby>いが<ruby>今日<rt>きょう</rt></ruby>さらに<ruby>強<rt>つよ</rt></ruby>くなりました。<ruby>持<rt>も</rt></ruby>ち<ruby>前<rt>まえ</rt></ruby>の<ruby>粘<rt>ねば</rt></ruby>り<ruby>強<rt>ずよ</rt></ruby>さを<ruby>活<rt>い</rt></ruby>かし、<ruby>必<rt>かなら</rt></ruby>ず<ruby>御社<rt>おんしゃ</rt></ruby>の<ruby>力<rt>ちから</rt></ruby>になります。」",
+    "id": 100
+  }
+]
